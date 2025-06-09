@@ -1,0 +1,1664 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www.programiz.com/html/online-compiler/
+Subject: Online HTML Editor
+Date: Tue, 10 Jun 2025 00:08:01 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--IgJYs4FLO7hppZ1EPy3MW4zks0L2gygfPcnJUvmIuy----"
+
+
+------MultipartBoundary--IgJYs4FLO7hppZ1EPy3MW4zks0L2gygfPcnJUvmIuy----
+Content-Type: text/html
+Content-ID: <frame-B32850124D3B0CDAD70221455BC91053@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://www.programiz.com/html/online-compiler/
+
+<!DOCTYPE html><html data-theme="light" style="color-scheme: light;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-6a20b104-0acd-4c9a-9860-537c42249ccf@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-597cbf28-59ef-4f59-87f8-b3168067620c@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-3eb9e8c7-43de-4da0-a214-305a7ccf6c64@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-10787025-cbfe-46ba-bed2-207e357ef075@mhtml.blink" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"><meta name="description" content="Write and run HTML, CSS and JavaScript code using our online editor. Our HTML editor updates the webview automatically in real-time as you write code. Give it a try."><link rel="canonical" href="https://www.programiz.com/html/online-compiler/"><title class="dark:bg-slate-50">Online HTML Editor</title><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"><meta name="description" content="Write and run HTML, CSS and JavaScript code using our online editor. Our HTML editor updates the webview automatically in real-time as you write code. Give it a try."><link rel="canonical" href="https://www.programiz.com/html/online-compiler/"><meta name="next-head-count" content="11"><link rel="preload" href="https://www.programiz.com/html/online-compiler/_next/static/css/0a3a48fae23e3d96.css" as="style"><link rel="stylesheet" href="https://www.programiz.com/html/online-compiler/_next/static/css/0a3a48fae23e3d96.css" data-n-g=""><link rel="preload" href="https://www.programiz.com/html/online-compiler/_next/static/css/45920f6911880049.css" as="style"><link rel="stylesheet" href="https://www.programiz.com/html/online-compiler/_next/static/css/45920f6911880049.css" data-n-p=""><link type="image/png" rel="shortcut icon" href="https://cdn.programiz.com/sites/tutorial2program/files/programiz-favicon_3.png"></head><body><div id="uniccmp" data-nosnippet=""></div><div id="__next" data-reactroot=""><div class="w-full h-full flex flex-col"><nav class="flex items-center justify-between p-[14px] md:p-4  dark:bg-[#1F2023] border-b-[1px] dark:border-gray-50  md:h-[102px] h-[7%]"><div class="flex items-center gap-2"><div role="button" class="md:hidden cursor-pointer flex"><span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e"></span><img alt="img" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"></span></div><div class="items-start pl-[1px]  leading-[1] md:items-center flex-col md:flex-row md:pl-[16px] md:leading-normal md:gap-4 lg:flex-row md:block flex"><a class="hidden md:block" title="Programiz" href="https://www.programiz.com/"><span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2784%27%20height=%2728%27/%3e"></span><img alt="Programiz logo" src="https://www.programiz.com/html/online-compiler/_next/static/media/progmaizMaxLogo.ad8a1729.svg" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" width="66" height="22"></span></a><a class="md:hidden large-icon" title="Programiz" href="https://www.programiz.com/"><span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2753%27%20height=%2718%27/%3e"></span><img alt="Programiz logo" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"></span></a><h1 class="color-[#25265E] dark:text-white nav-subtitle text-sm">Online HTML Editor</h1></div></div><div class="compiler-header-ad-wrapper items-center justify-center"><div class="compiler-header-ad items-center justify-center w-[728px] min-h-[90px]"><div id="div-gpt-ad-Programizcom36786" class="content-top-ad"></div></div></div><div class="compiler-header-cta"><a href="https://programiz.pro/?utm_source=compiler-nav&amp;utm_campaign=programiz&amp;utm_medium=referral">Interactive Coding Courses</a></div></nav><div class="flex flex-col md:flex-row z-1 h-full"><div class="hidden md:block dark:bg-[#2D2F34] "><div class="sidebar flex flex-col w-[150px] h-full dark:bg-[#2D2F34] place-content-between pt-[8px]"><div class="w-full mr-[1px]"><div class="flex gap-2 w-full mx-8 navbarTitle ml-[24px]"><p class="text-[14px] text-[#25265E] text-center leading-[20px] dark:text-[#FFFFFFDE] ">Files</p><div style="color:" class="cursor-pointer  hover:text-blue-100 text-black-10 flex items-center dark:text-white"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7 2.91797V11.0846" stroke="currentColor" stroke-opacity="0.67" stroke-width="1.16667" stroke-linecap="round" stroke-linejoin="round"></path><path d="M2.91699 7H11.0837" stroke="currentColor" stroke-opacity="0.67" stroke-width="1.16667" stroke-linecap="round" stroke-linejoin="round"></path></svg></div></div><div class="modal" style="text-align:center"></div><div><div class="group  flex items-center justify-between bg-gray-10 dark:bg-[#383B40] z-1 rootFile cursor-pointer  py-[4px] renderFile  pr-[8px] h-[24px] dark:hover:bg-[#383B40] 
+          "><div title="index.html" class="tooltip-parent relative text-[12px] text-gray-100 leading-[16px] dark:text-[#FFFFFFAB]" id="">index.html</div><div class="hidden hover:text-blue-100  tricolonView group-hover:block "><svg width="12" height="12" class="file-options" viewBox="0 0 3 8" fill="none" xmlns="http://www.w3.org/2000/svg" data-bs-toggle="collapse" data-bs-target="#index" aria-expanded="true" aria-controls="index"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.05263 2.10526C1.63398 2.10526 2.10526 1.63398 2.10526 1.05263C2.10526 0.471279 1.63398 0 1.05263 0C0.471279 0 0 0.471279 0 1.05263C0 1.63398 0.471279 2.10526 1.05263 2.10526Z" fill="#25265E" fill-opacity="0.67"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M1.05263 5.05058C1.63398 5.05058 2.10526 4.5793 2.10526 3.99794C2.10526 3.41659 1.63398 2.94531 1.05263 2.94531C0.471279 2.94531 0 3.41659 0 3.99794C0 4.5793 0.471279 5.05058 1.05263 5.05058Z" fill="#25265E" fill-opacity="0.67"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M1.05263 7.99979C1.63398 7.99979 2.10526 7.52852 2.10526 6.94716C2.10526 6.36581 1.63398 5.89453 1.05263 5.89453C0.471279 5.89453 0 6.36581 0 6.94716C0 7.52852 0.471279 7.99979 1.05263 7.99979Z" fill="#25265E" fill-opacity="0.67"></path></svg></div></div></div><div><div class="group  flex items-center justify-between hover:bg-gray-10  z-1 rootFile cursor-pointer  py-[4px] renderFile  pr-[8px] h-[24px] dark:hover:bg-[#383B40] 
+          "><div title="style.css" class="tooltip-parent relative text-[12px] text-gray-100 leading-[16px] dark:text-[#FFFFFFAB]" id="">style.css</div><div class="hidden hover:text-blue-100  tricolonView group-hover:block "><svg width="12" height="12" class="file-options" viewBox="0 0 3 8" fill="none" xmlns="http://www.w3.org/2000/svg" data-bs-toggle="collapse" data-bs-target="#style" aria-expanded="true" aria-controls="style"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.05263 2.10526C1.63398 2.10526 2.10526 1.63398 2.10526 1.05263C2.10526 0.471279 1.63398 0 1.05263 0C0.471279 0 0 0.471279 0 1.05263C0 1.63398 0.471279 2.10526 1.05263 2.10526Z" fill="#25265E" fill-opacity="0.67"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M1.05263 5.05058C1.63398 5.05058 2.10526 4.5793 2.10526 3.99794C2.10526 3.41659 1.63398 2.94531 1.05263 2.94531C0.471279 2.94531 0 3.41659 0 3.99794C0 4.5793 0.471279 5.05058 1.05263 5.05058Z" fill="#25265E" fill-opacity="0.67"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M1.05263 7.99979C1.63398 7.99979 2.10526 7.52852 2.10526 6.94716C2.10526 6.36581 1.63398 5.89453 1.05263 5.89453C0.471279 5.89453 0 6.36581 0 6.94716C0 7.52852 0.471279 7.99979 1.05263 7.99979Z" fill="#25265E" fill-opacity="0.67"></path></svg></div></div></div><div><div class="group  flex items-center justify-between hover:bg-gray-10  z-1 rootFile cursor-pointer  py-[4px] renderFile  pr-[8px] h-[24px] dark:hover:bg-[#383B40] 
+          "><div title="script.js" class="tooltip-parent relative text-[12px] text-gray-100 leading-[16px] dark:text-[#FFFFFFAB]" id="">script.js</div><div class="hidden hover:text-blue-100  tricolonView group-hover:block "><svg width="12" height="12" class="file-options" viewBox="0 0 3 8" fill="none" xmlns="http://www.w3.org/2000/svg" data-bs-toggle="collapse" data-bs-target="#script" aria-expanded="true" aria-controls="script"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.05263 2.10526C1.63398 2.10526 2.10526 1.63398 2.10526 1.05263C2.10526 0.471279 1.63398 0 1.05263 0C0.471279 0 0 0.471279 0 1.05263C0 1.63398 0.471279 2.10526 1.05263 2.10526Z" fill="#25265E" fill-opacity="0.67"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M1.05263 5.05058C1.63398 5.05058 2.10526 4.5793 2.10526 3.99794C2.10526 3.41659 1.63398 2.94531 1.05263 2.94531C0.471279 2.94531 0 3.41659 0 3.99794C0 4.5793 0.471279 5.05058 1.05263 5.05058Z" fill="#25265E" fill-opacity="0.67"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M1.05263 7.99979C1.63398 7.99979 2.10526 7.52852 2.10526 6.94716C2.10526 6.36581 1.63398 5.89453 1.05263 5.89453C0.471279 5.89453 0 6.36581 0 6.94716C0 7.52852 0.471279 7.99979 1.05263 7.99979Z" fill="#25265E" fill-opacity="0.67"></path></svg></div></div></div></div><div class="flex gap-[8px] px-[19px] pb-[16px]"><span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2732%27%20height=%2732%27/%3e"></span><img alt="Dark-Mode-Icon" src="https://www.programiz.com/html/online-compiler/_next/static/media/darkmodeIcon.87f3ca0b.svg" decoding="async" data-nimg="intrinsic" class="cursor-pointer" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" width="32" height="32"></span><span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2732%27%20height=%2732%27/%3e"></span><img alt="Minmax-Icon" src="https://www.programiz.com/html/online-compiler/_next/static/media/maxIcon.919eaac0.svg" decoding="async" data-nimg="intrinsic" class="cursor-pointer" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" width="32" height="32"></span><span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2732%27%20height=%2732%27/%3e"></span><img alt="Download-Icon" src="https://www.programiz.com/html/online-compiler/_next/static/media/downloadIcon.a92f13ee.svg" decoding="async" data-nimg="intrinsic" class="cursor-pointer" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" width="32" height="32"></span></div></div></div><div class="editorBrowserWrapper flex flex-col w-full h-full justify-between"><div class="hidden md:block absolute cursor-pointer border-[1px] rounded-md bg-white shadow-sm z-10 -ml-[0.8rem] mt-[4.98px] w-[24px] h-[23.87px] dark:border-gray-50 dark:bg-[#2D2F34] "><span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2720%27%20height=%2720%27/%3e"></span><img alt="" src="https://www.programiz.com/html/online-compiler/_next/static/media/leftChevronIcon.9d601c42.svg" decoding="async" data-nimg="intrinsic" class="rotate-180 " style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" width="20" height="20"></span></div><div class="flex overflow-hidden h-full h-screen-small md:h-[calc(100vh-139px)] md:flex-grow"><div class="flex flex-col w-full md:flex-row overflow-hidden md:flex-wrap"><div class="h-full editor bg-[#F5F5F5] border-r-[1px] border-b-[1px] md:border-b-0 md:w-auto overflow-hidden  dark:bg-[#1C2130] dark:border-[#FFFFFF33]" style="width: calc(50% - 5px);"><div class="flex items-center justify-between bg-white dark:bg-[#2D2F34] overflow-x-auto tabList relative "><div class=" file-tabs flex dark:bg-[#383B40] "><div class="flex bg-gray-10 text-blue-100 dark:text-[#699AF8] px-[12px] cursor-pointer  border-r-[1px]  items-center w-[106px] h-[36px] py-[8px] justify-between dark:border-gray-50 dark:bg-[#1C2130]"><div class="tooltip-parent-tabslist text-[14px] leading-[20px] weight-[500] max-w-[240px]">index.html</div><div class="hover:text-red-600 text-black-10"><svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path></svg></div></div><div class="flex bg-gray-20 px-[12px] cursor-pointer border-b-[1px] border-r-[1px] items-center w-[106px] h-[36px] py-[8px] justify-between dark:bg-[#383B40] dark:border-gray-50 dark:text-[#FFFFFFAB]"><div class="tooltip-parent-tabslist text-[14px] leading-[20px] weight-[500] max-w-[240px]">style.css</div><div class="hover:text-red-600 text-black-10"><svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path></svg></div></div><div class="flex bg-gray-20 px-[12px] cursor-pointer border-b-[1px] border-r-[1px] items-center w-[106px] h-[36px] py-[8px] justify-between dark:bg-[#383B40] dark:border-gray-50 dark:text-[#FFFFFFAB]"><div class="tooltip-parent-tabslist text-[14px] leading-[20px] weight-[500] max-w-[240px]">script.js</div><div class="hover:text-red-600 text-black-10"><svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path></svg></div></div></div><div class="flex-1 flex h-[36px] border-b-[1px] border-[#e5e7eb] dark:border-gray-50 min-w-[50px]"></div><div class="px-[16px] py-[8px] absolute top-0 right-0 h-[36px] bg-transparent overflow-hidden format-icon cursor-pointer" title="Format Document"><svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12.75 7.5L2.25 7.5" stroke="#25265E" stroke-opacity="0.67" stroke-width="1.77778" stroke-linecap="round" stroke-linejoin="round"></path><path d="M15.75 4.5L2.25 4.5" stroke="#25265E" stroke-opacity="0.67" stroke-width="1.77778" stroke-linecap="round" stroke-linejoin="round"></path><path d="M15.75 10.5L2.25 10.5" stroke="#25265E" stroke-opacity="0.67" stroke-width="1.77778" stroke-linecap="round" stroke-linejoin="round"></path><path d="M12.75 13.5L2.25 13.5" stroke="#25265E" stroke-opacity="0.67" stroke-width="1.77778" stroke-linecap="round" stroke-linejoin="round"></path></svg></div></div><div class="bg-gray-10 overflow-y-auto h-full pb-[36px]"><div class="react-codemirror2"><div class="CodeMirror cm-s-base16-light CodeMirror-wrap" translate="no"><div style="overflow: hidden; position: relative; width: 3px; height: 0px; top: 1899px; left: 103.808px;"><textarea autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0" style="position: absolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em; min-height: 1em; outline: none;"></textarea></div><div class="CodeMirror-vscrollbar" tabindex="-1" cm-not-content="true" style="bottom: 0px; display: block;"><div style="min-width: 1px; height: 2786px;"></div></div><div class="CodeMirror-hscrollbar" tabindex="-1" cm-not-content="true"><div style="height: 100%; min-height: 1px; width: 0px;"></div></div><div class="CodeMirror-scrollbar-filler" cm-not-content="true"></div><div class="CodeMirror-gutter-filler" cm-not-content="true"></div><div class="CodeMirror-scroll" tabindex="-1"><div class="CodeMirror-sizer" style="margin-left: 37px; margin-bottom: -5px; border-right-width: 45px; min-height: 2788px; padding-right: 5px; padding-bottom: 0px;"><div style="position: relative; top: 0px;"><div class="CodeMirror-lines" role="presentation"><div role="presentation" style="position: relative; outline: none;"><div class="CodeMirror-measure"><pre class="CodeMirror-line-like"><span>xxxxxxxxxx</span></pre><div class="CodeMirror-linenumber CodeMirror-gutter-elt"><div>105</div></div></div><div class="CodeMirror-measure"></div><div style="position: relative; z-index: 1;"></div><div class="CodeMirror-cursors"><div class="CodeMirror-cursor" style="left: 66.8113px; top: 2760px; height: 20px;">&nbsp;</div></div><div class="CodeMirror-code" role="presentation" style="text-rendering: auto;"><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">1</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-meta">&lt;!DOCTYPE html&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">2</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">html</span> <span class="cm-attribute">lang</span>=<span class="cm-string">"en"</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">3</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">head</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">4</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">meta</span> <span class="cm-attribute">charset</span>=<span class="cm-string">"UTF-8"</span> <span class="cm-tag cm-bracket">/&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">5</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">meta</span> <span class="cm-attribute">name</span>=<span class="cm-string">"viewport"</span> <span class="cm-attribute">content</span>=<span class="cm-string">"width=device-width, initial-scale=1"</span> <span class="cm-tag cm-bracket">/&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">6</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">title</span><span class="cm-tag cm-bracket">&gt;</span>For My Princess Santo<span class="cm-tag cm-bracket">&lt;/</span><span class="cm-tag">title</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">7</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">style</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">8</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">  body {</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">9</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  background: linear-gradient(135deg, #e6e6fa, #f5f5f5);</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">10</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">11</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  color: #333366;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">12</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  margin: 0;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">13</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  padding: 2rem;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">14</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  overflow-x: hidden;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">15</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">  }</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">16</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">  .container {</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">17</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  max-width: 600px;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">18</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  margin: auto;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">19</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  text-align: center;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">20</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  background: rgba(255, 255, 255, 0.85);</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">21</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  padding: 2rem;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">22</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  border-radius: 15px;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">23</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  box-shadow: 0 0 15px rgba(102, 102, 153, 0.2);</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">24</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">  }</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">25</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">  h1 {</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">26</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  font-weight: 700;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">27</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  margin-bottom: 1rem;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">28</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  color: #6a5acd;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">29</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">  }</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">30</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">  p {</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">31</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  line-height: 1.5;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">32</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  margin-bottom: 1rem;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">33</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  font-size: 1.1rem;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">34</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">  }</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">35</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">  .animation-area {</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">36</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  position: relative;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">37</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  height: 150px;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">38</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  margin: 2rem auto;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">39</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">  }</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">40</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">  .raindrop, .flower {</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">41</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  position: absolute;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">42</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  width: 15px;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">43</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  height: 30px;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">44</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  background: #87cefa;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">45</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">46</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  opacity: 0.7;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">47</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  animation: fall 4s linear infinite;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">48</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">  }</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">49</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">  .flower {</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">50</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  background: #ffb6c1;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">51</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  border-radius: 50%;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">52</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  width: 20px;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">53</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  height: 20px;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">54</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  opacity: 0;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">55</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  animation: bloom 4s ease-in-out infinite;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">56</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">  }</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">57</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">  @keyframes fall {</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">58</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  0% {</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">59</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp;  top: -40px;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">60</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp;  opacity: 0.7;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">61</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  }</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">62</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  70% {</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">63</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp;  opacity: 0.7;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">64</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  }</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">65</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  100% {</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">66</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp;  top: 130px;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">67</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp;  opacity: 0;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">68</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  }</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">69</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">  }</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">70</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">  @keyframes bloom {</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">71</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  0%, 50% {</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">72</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp;  opacity: 0;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">73</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp;  transform: scale(0.6);</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">74</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  }</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">75</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  70%, 100% {</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">76</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp;  opacity: 1;</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">77</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp;  transform: scale(1);</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">78</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;  }</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">79</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">  }</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">80</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-tag cm-bracket">&lt;/</span><span class="cm-tag">style</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">81</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-tag cm-bracket">&lt;/</span><span class="cm-tag">head</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">82</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">body</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">83</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;<span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">div</span> <span class="cm-attribute">class</span>=<span class="cm-string">"container"</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">84</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp;<span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">h1</span><span class="cm-tag cm-bracket">&gt;</span>For My Princess Santo ❤️<span class="cm-tag cm-bracket">&lt;/</span><span class="cm-tag">h1</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">85</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp;<span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">p</span><span class="cm-tag cm-bracket">&gt;</span>Don’t worry di chellooo, konjo naal mattum poruthuko di.<span class="cm-tag cm-bracket">&lt;/</span><span class="cm-tag">p</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">86</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp;<span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">p</span><span class="cm-tag cm-bracket">&gt;</span>Periods pain-laa aparam unna paathuka, naa permanent-a un kooda vae irrupean.<span class="cm-tag cm-bracket">&lt;/</span><span class="cm-tag">p</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">87</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp;<span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">p</span><span class="cm-tag cm-bracket">&gt;</span>Pain pathi yosikaatha maari naa paathukurean di.<span class="cm-tag cm-bracket">&lt;/</span><span class="cm-tag">p</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">88</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp;<span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">p</span><span class="cm-tag cm-bracket">&gt;</span>Unna sirika vechi, mattum paakanum nu aasa padrean di thangooo.<span class="cm-tag cm-bracket">&lt;/</span><span class="cm-tag">p</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">89</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp;<span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">p</span><span class="cm-tag cm-bracket">&gt;</span>Naa mukkiyama Chennai vanthathuku reason kooda athan – yenga Chennai-la periods pain varumo, amma appa-la yaarumae illa, yaaru paathupaanga nu yosichi than vanthean.<span class="cm-tag cm-bracket">&lt;/</span><span class="cm-tag">p</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">90</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp;<span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">p</span><span class="cm-tag cm-bracket">&gt;</span>Nalla vela unakku periods pain anniki varala anniki naal romba happy-a pochi theriyuma?<span class="cm-tag cm-bracket">&lt;/</span><span class="cm-tag">p</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">91</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp;<span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">p</span><span class="cm-tag cm-bracket">&gt;</span>Unkooda and thanks for the happy moments – anniki T Nagar ponathu, beach-ku ponathu, ellamae.<span class="cm-tag cm-bracket">&lt;/</span><span class="cm-tag">p</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">92</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp;<span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">p</span><span class="cm-tag cm-bracket">&gt;</span>And more... I LOVE YOU the way you are.<span class="cm-tag cm-bracket">&lt;/</span><span class="cm-tag">p</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">93</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp;<span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">p</span><span class="cm-tag cm-bracket">&gt;</span>This is for my princess, SANTO<span class="cm-tag cm-bracket">&lt;/</span><span class="cm-tag">p</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">94</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp;<span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">div</span> <span class="cm-attribute">class</span>=<span class="cm-string">"animation-area"</span> <span class="cm-attribute">aria-label</span>=<span class="cm-string">"Calming raindrops turning into flowers"</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">95</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp;<span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">div</span> <span class="cm-attribute">class</span>=<span class="cm-string">"raindrop"</span> <span class="cm-attribute">style</span>=<span class="cm-string">"left: 20%; animation-delay: 0s;"</span><span class="cm-tag cm-bracket">&gt;&lt;/</span><span class="cm-tag">div</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">96</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp;<span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">div</span> <span class="cm-attribute">class</span>=<span class="cm-string">"raindrop"</span> <span class="cm-attribute">style</span>=<span class="cm-string">"left: 40%; animation-delay: 1s;"</span><span class="cm-tag cm-bracket">&gt;&lt;/</span><span class="cm-tag">div</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">97</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp;<span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">div</span> <span class="cm-attribute">class</span>=<span class="cm-string">"raindrop"</span> <span class="cm-attribute">style</span>=<span class="cm-string">"left: 60%; animation-delay: 2s;"</span><span class="cm-tag cm-bracket">&gt;&lt;/</span><span class="cm-tag">div</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">98</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp;<span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">div</span> <span class="cm-attribute">class</span>=<span class="cm-string">"raindrop"</span> <span class="cm-attribute">style</span>=<span class="cm-string">"left: 80%; animation-delay: 3s;"</span><span class="cm-tag cm-bracket">&gt;&lt;/</span><span class="cm-tag">div</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">99</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp;<span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">div</span> <span class="cm-attribute">class</span>=<span class="cm-string">"flower"</span> <span class="cm-attribute">style</span>=<span class="cm-string">"left: 25%; top: 120px; animation-delay: 1.5s;"</span><span class="cm-tag cm-bracket">&gt;&lt;/</span><span class="cm-tag">div</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">100</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp;<span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">div</span> <span class="cm-attribute">class</span>=<span class="cm-string">"flower"</span> <span class="cm-attribute">style</span>=<span class="cm-string">"left: 50%; top: 130px; animation-delay: 2.5s;"</span><span class="cm-tag cm-bracket">&gt;&lt;/</span><span class="cm-tag">div</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">101</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp;<span class="cm-tag cm-bracket">&lt;</span><span class="cm-tag">div</span> <span class="cm-attribute">class</span>=<span class="cm-string">"flower"</span> <span class="cm-attribute">style</span>=<span class="cm-string">"left: 75%; top: 110px; animation-delay: 3.5s;"</span><span class="cm-tag cm-bracket">&gt;&lt;/</span><span class="cm-tag">div</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">102</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp;<span class="cm-tag cm-bracket">&lt;/</span><span class="cm-tag">div</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">103</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp;<span class="cm-tag cm-bracket">&lt;/</span><span class="cm-tag">div</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">104</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-tag cm-bracket">&lt;/</span><span class="cm-tag">body</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" aria-hidden="true" style="left: -36.9965px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">105</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-tag cm-bracket">&lt;/</span><span class="cm-tag">html</span><span class="cm-tag cm-bracket">&gt;</span></span></pre></div></div></div></div></div></div><div style="position: absolute; height: 45px; width: 1px; border-bottom: 0px solid transparent; top: 2788px;"></div><div class="CodeMirror-gutters" style="height: 2833px;"><div class="CodeMirror-gutter CodeMirror-linenumbers" style="width: 37px;"></div></div></div></div></div></div></div><div class="gutter gutter-horizontal" style="width: 10px;"></div><div class="flex flex-col bg-white browserContainer h-2/3 md:h-full w-full md:flex-1" style="width: calc(50% - 5px);"><div class="flex items-center"><div class="flex items-center "><div class="flex border-b-[1px] cursor-pointer items-center gap-2  px-[12px] border-b-[#fff] w-[102px]  md:w-auto md:max-w-[240px] md:h-[37px] py-[8px] text-purple dark:border-gray-50" role="button"><span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2716%27%20height=%2716%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="Browser Icon" src="https://www.programiz.com/html/online-compiler/_next/static/media/browserIcon.64bc41ef.svg" decoding="async" data-nimg="intrinsic" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;" width="16" height="16"></span><p class="browser-title text-[14px] hidden md:block leading-[20px]" title="For My Princess Santo">For My Princess Sant...</p><p class="text-[14px] md:hidden leading-[20px]">For My ...</p><div class="hidden md:block cursor-pointer collapse-browser" title="Collapse Browser"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path class="browserRight-arrow" d="M6 12L10 8L6 4" stroke="#25265E" stroke-opacity="0.67" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"></path></svg></div></div><div class="  md:hidden flex cursor-pointer items-center p-2 dark:bg-[#1C2130] dark:text-[#FFFFFF] dark:border-[#FFFFFF33] leading-[20px] border-b-[1px] border-l-[1px]"><p>Console</p></div></div><div class="flex items-center justify-end flex-1 border-b-[1px] border-l-[1px] border-[#E5E7EB] h-full border-1 dark:bg-[#2D2F34] dark:border-[#FFFFFF33]"><div class="flex ml-[auto]"><button class=" hidden p-[9px] mr-[0] md:mr-[6px] refresh-icon " title="Refresh Browser"><svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 3L1.5 7.5L6 7.5" stroke="#25265E" stroke-opacity="0.67" stroke-width="1.77778" stroke-linecap="round" stroke-linejoin="round"></path><path d="M3.3825 11.251C4.3815 14.0865 7.13538 15.9196 10.1368 15.7468C13.1382 15.5741 15.6636 13.4372 16.3307 10.5057C16.9978 7.57432 15.6457 4.55505 13.0146 3.10055C10.3835 1.64604 7.10762 2.10695 4.98 4.23097L1.5 7.50098" stroke="#25265E" stroke-opacity="0.67" stroke-width="1.77778" stroke-linecap="round" stroke-linejoin="round"></path></svg></button><button class=" block md:hidden p-[9px] mr-[6px] md:mr-[0] toggle-browser toggle-browser--open" title="Toggle Browser View"><svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4.5 6.75L9 11.25L13.5 6.75" stroke="#25265E" stroke-opacity="0.67" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></button></div></div></div><div class=" h-full overflow-auto  bg-[#FFFFFF]   "><iframe width="100%" height="100%" id="browser" name="browser" src="cid:frame-8ABAA52C1FCCA6104798BD93C04AC0B5@mhtml.blink" class="sc-eCImPb dlziq" style="display: block;"></iframe><div class="flex flex-col justify-start w-full h-3 bg-[#F5F5F5] dark:bg-[#1C2130]" style="display: none;"><p class="text-[14px] text-[#CB6D6F] font-[DroidSansMono] leading-[20px] ">Hello World! Online Javascript playground for free.</p><form class="py-2 pr-2 flex"><label for="consolelog" style="color: rgb(172, 65, 67);">&gt;</label><input class="border-transparent w-full bg-[#F5F5F5] focus:border-transparent focus:ring-0 ml-1 dark:text-[#ffffff] dark:bg-[#1C2130]" type="text" id="consolelog" value="" style="outline: none;"></form></div></div></div></div></div><div class="consoleWrapper hidden md:block overflow-hidden "><div class="flex dark:bg-[#2D2F34] overflow-hidden"><div class="flex w-32 gap-4 items-center p-2 bg-[#F5F5F5] dark:bg-[#1C2130] dark:text-[#FFFFFF] border-r-[1px] dark:border-[#FFFFFF33]"><p class="leading-[20px] text-[14px]">Console</p><button class="hover:text-blue-100"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 10L8 6L12 10" stroke="currentColor" stroke-opacity="0.67" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"></path></svg></button></div><div class="flex-1 border-b-[1px] dark:border-[#FFFFFF33]"></div></div></div></div></div></div></div>
+<next-route-announcer><p aria-live="assertive" id="__next-route-announcer__" role="alert" style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px; white-space: nowrap; overflow-wrap: normal;"></p></next-route-announcer><iframe name="__tcfapiLocator" style="display: none;"></iframe><iframe name="__uspapiLocator" style="display: none;"></iframe><iframe name="__gppLocator" style="display: none;"></iframe></body></html>
+------MultipartBoundary--IgJYs4FLO7hppZ1EPy3MW4zks0L2gygfPcnJUvmIuy----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://www.programiz.com/html/online-compiler/_next/static/media/browserIcon.64bc41ef.svg
+
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.99967 14.6654C11.6816 14.6654 14.6663 11.6806 14.6663 7.9987C14.6663 4.3168 11.6816 1.33203 7.99967 1.33203C4.31778 1.33203 1.33301 4.3168 1.33301 7.9987C1.33301 11.6806 4.31778 14.6654 7.99967 14.6654Z" stroke="#6501E5" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1.33301 8H14.6663" stroke="#6501E5" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.99967 1.33203C9.66719 3.1576 10.6148 5.52672 10.6663 7.9987C10.6148 10.4707 9.66719 12.8398 7.99967 14.6654C6.33215 12.8398 5.38451 10.4707 5.33301 7.9987C5.38451 5.52672 6.33215 3.1576 7.99967 1.33203V1.33203Z" stroke="#6501E5" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+
+------MultipartBoundary--IgJYs4FLO7hppZ1EPy3MW4zks0L2gygfPcnJUvmIuy----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://www.programiz.com/html/online-compiler/_next/static/media/leftChevronIcon.9d601c42.svg
+
+             <svg
+              width="16"
+              height="16"
+              viewBox="0 0 16 16"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M6 12L10 8L6 4"
+                stroke="#25265E"
+                stroke-opacity="0.87"
+                stroke-width="1.33333"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+------MultipartBoundary--IgJYs4FLO7hppZ1EPy3MW4zks0L2gygfPcnJUvmIuy----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://www.programiz.com/html/online-compiler/_next/static/media/downloadIcon.a92f13ee.svg
+
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" width="31" height="31" rx="1.5" fill="white" stroke="#D3DCE6"/>
+<path d="M9.33398 19.7031V21.9253C9.33398 22.7435 9.99727 23.4068 10.8155 23.4068H21.1858C22.004 23.4068 22.6673 22.7435 22.6673 21.9253V19.7031" stroke="#25265E" stroke-opacity="0.67" stroke-width="1.77778" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M13.0371 16L16.0001 18.963L18.963 16" stroke="#25265E" stroke-opacity="0.67" stroke-width="1.77778" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16 8.59375V18.9641" stroke="#25265E" stroke-opacity="0.67" stroke-width="1.77778" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+
+------MultipartBoundary--IgJYs4FLO7hppZ1EPy3MW4zks0L2gygfPcnJUvmIuy----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://www.programiz.com/html/online-compiler/_next/static/media/maxIcon.919eaac0.svg
+
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" width="31" height="31" rx="1.5" fill="white" stroke="#D3DCE6"/>
+<path d="M13.0367 10.2209C13.5276 10.2209 13.9256 9.82295 13.9256 9.33203C13.9256 8.84111 13.5276 8.44314 13.0367 8.44314V10.2209ZM8.44412 13.0357C8.44412 13.5267 8.84209 13.9246 9.33301 13.9246C9.82393 13.9246 10.2219 13.5267 10.2219 13.0357H8.44412ZM21.7772 13.0357C21.7772 13.5267 22.1751 13.9246 22.6661 13.9246C23.157 13.9246 23.5549 13.5267 23.5549 13.0357H21.7772ZM18.9623 8.44314C18.4714 8.44314 18.0735 8.84111 18.0735 9.33203C18.0735 9.82295 18.4714 10.2209 18.9623 10.2209V8.44314ZM18.9623 21.7753C18.4714 21.7753 18.0735 22.1733 18.0735 22.6642C18.0735 23.1551 18.4714 23.5531 18.9623 23.5531V21.7753ZM23.5549 18.9605C23.5549 18.4696 23.157 18.0716 22.6661 18.0716C22.1751 18.0716 21.7772 18.4696 21.7772 18.9605H23.5549ZM10.2219 18.9605C10.2219 18.4696 9.82393 18.0716 9.33301 18.0716C8.84209 18.0716 8.44412 18.4696 8.44412 18.9605H10.2219ZM13.0367 23.5531C13.5276 23.5531 13.9256 23.1551 13.9256 22.6642C13.9256 22.1733 13.5276 21.7753 13.0367 21.7753V23.5531ZM13.0367 8.44314H10.8145V10.2209H13.0367V8.44314ZM10.8145 8.44314C9.50537 8.44314 8.44412 9.50439 8.44412 10.8135H10.2219C10.2219 10.4862 10.4872 10.2209 10.8145 10.2209V8.44314ZM8.44412 10.8135V13.0357H10.2219V10.8135H8.44412ZM23.5549 13.0357V10.8135H21.7772V13.0357H23.5549ZM23.5549 10.8135C23.5549 9.50439 22.4937 8.44314 21.1846 8.44314V10.2209C21.5118 10.2209 21.7772 10.4862 21.7772 10.8135H23.5549ZM21.1846 8.44314H18.9623V10.2209H21.1846V8.44314ZM18.9623 23.5531H21.1846V21.7753H18.9623V23.5531ZM21.1846 23.5531C22.4937 23.5531 23.5549 22.4918 23.5549 21.1827H21.7772C21.7772 21.51 21.5118 21.7753 21.1846 21.7753V23.5531ZM23.5549 21.1827V18.9605H21.7772V21.1827H23.5549ZM8.44412 18.9605V21.1827H10.2219V18.9605H8.44412ZM8.44412 21.1827C8.44412 22.4918 9.50537 23.5531 10.8145 23.5531V21.7753C10.4872 21.7753 10.2219 21.51 10.2219 21.1827H8.44412ZM10.8145 23.5531H13.0367V21.7753H10.8145V23.5531Z" fill="#25265E" fill-opacity="0.67"/>
+</svg>
+
+------MultipartBoundary--IgJYs4FLO7hppZ1EPy3MW4zks0L2gygfPcnJUvmIuy----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://www.programiz.com/html/online-compiler/_next/static/media/darkmodeIcon.87f3ca0b.svg
+
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" width="31" height="31" rx="1.5" fill="white" stroke="#D3DCE6"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22.6674 16.5839C22.3432 20.0919 19.3456 22.7421 15.8243 22.6339C12.303 22.5257 9.4737 19.6965 9.3655 16.1752C9.2573 12.6539 11.9075 9.65622 15.4156 9.33203C13.8899 11.3961 14.1039 14.2657 15.9188 16.0806C17.7337 17.8955 20.6034 18.1095 22.6674 16.5839Z" stroke="#25265E" stroke-opacity="0.67" stroke-width="1.77778" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+
+------MultipartBoundary--IgJYs4FLO7hppZ1EPy3MW4zks0L2gygfPcnJUvmIuy----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://www.programiz.com/html/online-compiler/_next/static/media/progmaizMaxLogo.ad8a1729.svg
+
+<svg width="84" height="28" viewBox="0 0 84 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1.11816 10.4753C1.11816 10.2644 1.23036 10.0695 1.41268 9.96352L5.28199 7.71535C5.47927 7.60072 5.72658 7.74306 5.72658 7.97122V24.2522C5.72658 24.3653 5.63488 24.457 5.52177 24.457H1.32298C1.20986 24.457 1.11816 24.3653 1.11816 24.2522V10.4753Z" fill="url(#paint0_linear_10231_22577)"/>
+<path d="M1.11817 9.80559C1.11817 9.73246 1.15716 9.66487 1.22048 9.62827L5.41927 7.20109C5.55581 7.12216 5.72659 7.2207 5.72659 7.37841L5.72659 15.7523C5.72659 15.9219 5.58904 16.0595 5.41936 16.0595H1.4254C1.25572 16.0595 1.11817 15.9219 1.11817 15.7523V9.80559Z" fill="url(#paint1_linear_10231_22577)"/>
+<path d="M12.7621 6.95426L1.5295 13.4037C1.27506 13.5498 1.11816 13.8208 1.11816 14.1142V18.9028L13.2729 11.8852C13.5264 11.7388 13.6825 11.4683 13.6825 11.1757V7.48712C13.6825 7.01477 13.1717 6.71906 12.7621 6.95426Z" fill="url(#paint2_linear_10231_22577)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1.61328 18.6167C1.3186 18.7756 1.11835 19.087 1.11835 19.4453C1.11835 19.4477 1.11836 19.4501 1.11837 19.4525L1.11832 19.4524L1.11832 18.3359L1.61328 18.6167Z" fill="#6501E5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13.245 11.9059C13.2859 11.8085 13.3084 11.7016 13.3084 11.5894C13.3084 11.4151 13.254 11.2535 13.1611 11.1206L13.6849 10.8242V11.1789C13.6849 11.4714 13.529 11.7417 13.2758 11.8881L13.245 11.9059Z" fill="#9327FE"/>
+<path d="M13.1679 11.1328C13.0275 10.701 5.82446 5.86233 0.866648 2.51035C0.699376 2.39725 0.780383 2.13667 0.982299 2.13667L6.88706 2.13663C6.92861 2.13663 6.96918 2.14926 7.00337 2.17286L13.331 6.53831C13.5527 6.69124 13.6851 6.94336 13.6851 7.21267L13.6851 10.8323L13.1679 11.1328Z" fill="#9327FE"/>
+<path d="M16.6381 15.6037C16.4661 15.5517 16.2082 15.5171 15.9502 15.5171C15.2624 15.5171 14.179 15.7944 13.7319 16.7649V15.6037H11.2041V24.2176H13.8179V20.4566C13.8179 18.7408 14.7637 18.1168 15.8127 18.1168C16.0706 18.1168 16.3458 18.1341 16.6381 18.2035V15.6037Z" fill="#0556F3"/>
+<path d="M22.0436 22.0511C21.0634 22.0511 20.1176 21.3405 20.1176 19.902C20.1176 18.4461 21.0634 17.7702 22.0436 17.7702C23.041 17.7702 23.9696 18.4461 23.9696 19.902C23.9696 21.3578 23.041 22.0511 22.0436 22.0511ZM22.0436 15.3438C19.4986 15.3438 17.5038 17.2329 17.5038 19.902C17.5038 22.571 19.4986 24.4775 22.0436 24.4775C24.6058 24.4775 26.5834 22.571 26.5834 19.902C26.5834 17.2329 24.6058 15.3438 22.0436 15.3438Z" fill="#0556F3"/>
+<path d="M27.6641 24.7028C27.9048 26.2454 29.4697 27.7705 31.9287 27.7705C35.1272 27.7705 36.5029 25.6214 36.5029 23.143V15.6037H34.0094V16.5223C33.7687 16.0717 33.0293 15.4477 31.6364 15.4477C29.2977 15.4477 27.6641 17.3889 27.6641 19.6593C27.6641 22.0511 29.3665 23.8536 31.6364 23.8536C32.8745 23.8536 33.6139 23.351 33.9235 22.883V23.2816C33.9235 24.8415 33.1152 25.4828 31.8083 25.4828C30.8282 25.4828 30.1403 24.8762 29.9683 24.0442L27.6641 24.7028ZM32.1179 21.5658C31.0689 21.5658 30.2779 20.8379 30.2779 19.6593C30.2779 18.4808 31.1377 17.7528 32.1179 17.7528C33.098 17.7528 33.9407 18.4808 33.9407 19.6593C33.9407 20.8379 33.184 21.5658 32.1179 21.5658Z" fill="#0556F3"/>
+<path d="M44.1452 15.6037C43.9733 15.5517 43.7153 15.5171 43.4574 15.5171C42.7696 15.5171 41.6862 15.7944 41.2391 16.7649V15.6037H38.7113V24.2176H41.3251V20.4566C41.3251 18.7408 42.2709 18.1168 43.3198 18.1168C43.5778 18.1168 43.8529 18.1341 44.1452 18.2035V15.6037Z" fill="#0556F3"/>
+<path d="M45.2821 21.8431C45.2821 23.2123 46.3654 24.4602 48.2398 24.4602C49.3748 24.4602 50.2002 23.9749 50.6473 23.247C50.6473 23.8363 50.7161 24.1482 50.7333 24.2176H53.0891C53.0719 24.1309 52.986 23.559 52.986 22.883V18.6714C52.986 16.9036 51.9714 15.3438 49.2028 15.3438C46.6922 15.3438 45.5572 16.9729 45.454 18.2035L47.7239 18.6714C47.7755 18.0302 48.2742 17.4062 49.1856 17.4062C50.011 17.4062 50.4409 17.8395 50.4409 18.3421C50.4409 18.6368 50.2862 18.8621 49.8219 18.9314L47.8099 19.2434C46.3998 19.4513 45.2821 20.3179 45.2821 21.8431ZM48.8761 22.5537C48.1538 22.5537 47.8615 22.1204 47.8615 21.6698C47.8615 21.0632 48.2742 20.8032 48.8245 20.7166L50.4409 20.4566V20.8379C50.4409 22.1724 49.6499 22.5537 48.8761 22.5537Z" fill="#0556F3"/>
+<path d="M57.7991 24.2176V19.2607C57.7991 18.4808 58.2978 17.7702 59.2092 17.7702C60.155 17.7702 60.5849 18.4115 60.5849 19.226V24.2176H63.1643V19.2434C63.1643 18.4808 63.663 17.7702 64.5916 17.7702C65.5202 17.7702 65.9501 18.4115 65.9501 19.226V24.2176H68.478V18.6368C68.478 16.297 66.9303 15.3438 65.3139 15.3438C64.1617 15.3438 63.3363 15.725 62.6657 16.6956C62.2357 15.8464 61.3587 15.3438 60.1378 15.3438C59.2092 15.3438 58.1087 15.829 57.6788 16.5916V15.6037H55.1853V24.2176H57.7991Z" fill="#0556F3"/>
+<path d="M83.9164 24.2176V21.9471H79.9096L83.8476 17.7702V15.6037H76.8487V17.8568H80.5115L76.7456 21.8951V24.2176H83.9164Z" fill="#0556F3"/>
+<path d="M73.8423 24.2006H70.8369L71.7211 18.5535H70.8369V15.4062H74.7211V18.5535L73.8423 24.2006Z" fill="#065AFF"/>
+<path d="M74.7211 9.71875H70.8369V13.4425H74.7211V9.71875Z" fill="#065AFF"/>
+<defs>
+<linearGradient id="paint0_linear_10231_22577" x1="3.42237" y1="22.6906" x2="3.42237" y2="14.9155" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00A3FF"/>
+<stop offset="1" stop-color="#0597EA"/>
+</linearGradient>
+<linearGradient id="paint1_linear_10231_22577" x1="3.42237" y1="15.1656" x2="3.42237" y2="11.2313" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00A3FF"/>
+<stop offset="1" stop-color="#0597EA"/>
+</linearGradient>
+<linearGradient id="paint2_linear_10231_22577" x1="5.08316" y1="13.7567" x2="14.5406" y2="8.45086" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6501E5"/>
+<stop offset="1" stop-color="#5F01D8"/>
+</linearGradient>
+</defs>
+</svg>
+
+------MultipartBoundary--IgJYs4FLO7hppZ1EPy3MW4zks0L2gygfPcnJUvmIuy----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://www.programiz.com/html/online-compiler/_next/static/css/45920f6911880049.css
+
+@charset "utf-8";
+
+.CodeMirror { font-family: monospace; height: 300px; color: rgb(0, 0, 0); direction: ltr; }
+
+.CodeMirror-lines { padding: 4px 0px; }
+
+.CodeMirror pre.CodeMirror-line, .CodeMirror pre.CodeMirror-line-like { padding: 0px 4px; }
+
+.CodeMirror-gutter-filler, .CodeMirror-scrollbar-filler { background-color: rgb(255, 255, 255); }
+
+.CodeMirror-gutters { border-right: 1px solid rgb(221, 221, 221); background-color: rgb(247, 247, 247); white-space: nowrap; }
+
+.CodeMirror-linenumber { padding: 0px 3px 0px 5px; min-width: 20px; text-align: right; color: rgb(153, 153, 153); white-space: nowrap; }
+
+.CodeMirror-guttermarker { color: rgb(0, 0, 0); }
+
+.CodeMirror-guttermarker-subtle { color: rgb(153, 153, 153); }
+
+.CodeMirror-cursor { border-left: 1px solid rgb(0, 0, 0); border-right: none; width: 0px; }
+
+.CodeMirror div.CodeMirror-secondarycursor { border-left: 1px solid silver; }
+
+.cm-fat-cursor .CodeMirror-cursor { width: auto; background: rgb(119, 238, 119); border: 0px !important; }
+
+.cm-fat-cursor div.CodeMirror-cursors { z-index: 1; }
+
+.cm-fat-cursor .CodeMirror-line::selection, .cm-fat-cursor .CodeMirror-line > span::selection, .cm-fat-cursor .CodeMirror-line > span > span::selection { background: transparent; }
+
+.cm-fat-cursor { caret-color: transparent; }
+
+@-webkit-keyframes blink { 
+  50% { background-color: transparent; }
+}
+
+@keyframes blink { 
+  50% { background-color: transparent; }
+}
+
+.cm-tab { display: inline-block; text-decoration: inherit; }
+
+.CodeMirror-rulers { position: absolute; inset: -50px 0px 0px; overflow: hidden; }
+
+.CodeMirror-ruler { border-left: 1px solid rgb(204, 204, 204); top: 0px; bottom: 0px; position: absolute; }
+
+.cm-s-default .cm-header { color: blue; }
+
+.cm-s-default .cm-quote { color: rgb(0, 153, 0); }
+
+.cm-negative { color: rgb(221, 68, 68); }
+
+.cm-positive { color: rgb(34, 153, 34); }
+
+.cm-header, .cm-strong { font-weight: 700; }
+
+.cm-em { font-style: italic; }
+
+.cm-link { text-decoration: underline; }
+
+.cm-strikethrough { text-decoration: line-through; }
+
+.cm-s-default .cm-keyword { color: rgb(119, 0, 136); }
+
+.cm-s-default .cm-atom { color: rgb(34, 17, 153); }
+
+.cm-s-default .cm-number { color: rgb(17, 102, 68); }
+
+.cm-s-default .cm-def { color: rgb(0, 0, 255); }
+
+.cm-s-default .cm-variable-2 { color: rgb(0, 85, 170); }
+
+.cm-s-default .cm-type, .cm-s-default .cm-variable-3 { color: rgb(0, 136, 85); }
+
+.cm-s-default .cm-comment { color: rgb(170, 85, 0); }
+
+.cm-s-default .cm-string { color: rgb(170, 17, 17); }
+
+.cm-s-default .cm-string-2 { color: rgb(255, 85, 0); }
+
+.cm-s-default .cm-meta, .cm-s-default .cm-qualifier { color: rgb(85, 85, 85); }
+
+.cm-s-default .cm-builtin { color: rgb(51, 0, 170); }
+
+.cm-s-default .cm-bracket { color: rgb(153, 153, 119); }
+
+.cm-s-default .cm-tag { color: rgb(17, 119, 0); }
+
+.cm-s-default .cm-attribute { color: rgb(0, 0, 204); }
+
+.cm-s-default .cm-hr { color: rgb(153, 153, 153); }
+
+.cm-s-default .cm-link { color: rgb(0, 0, 204); }
+
+.cm-invalidchar, .cm-s-default .cm-error { color: red; }
+
+.CodeMirror-composing { border-bottom: 2px solid; }
+
+div.CodeMirror span.CodeMirror-matchingbracket { color: rgb(0, 187, 0); }
+
+div.CodeMirror span.CodeMirror-nonmatchingbracket { color: rgb(170, 34, 34); }
+
+.CodeMirror-matchingtag { background: rgba(255, 150, 0, 0.3); }
+
+.CodeMirror-activeline-background { background: rgb(232, 242, 255); }
+
+.CodeMirror { position: relative; overflow: hidden; background: rgb(255, 255, 255); }
+
+.CodeMirror-scroll { margin-bottom: -50px; margin-right: -50px; padding-bottom: 50px; height: 100%; outline: none; position: relative; z-index: 0; overflow: scroll !important; }
+
+.CodeMirror-sizer { position: relative; border-right: 50px solid transparent; }
+
+.CodeMirror-gutter-filler, .CodeMirror-hscrollbar, .CodeMirror-scrollbar-filler, .CodeMirror-vscrollbar { position: absolute; z-index: 6; display: none; outline: none; }
+
+.CodeMirror-vscrollbar { right: 0px; top: 0px; overflow: hidden scroll; }
+
+.CodeMirror-hscrollbar { bottom: 0px; left: 0px; overflow: scroll hidden; }
+
+.CodeMirror-scrollbar-filler { right: 0px; bottom: 0px; }
+
+.CodeMirror-gutter-filler { left: 0px; bottom: 0px; }
+
+.CodeMirror-gutters { position: absolute; left: 0px; top: 0px; min-height: 100%; z-index: 3; }
+
+.CodeMirror-gutter { white-space: normal; height: 100%; display: inline-block; vertical-align: top; margin-bottom: -50px; }
+
+.CodeMirror-gutter-wrapper { position: absolute; z-index: 4; background: none !important; border: none !important; }
+
+.CodeMirror-gutter-background { position: absolute; top: 0px; bottom: 0px; z-index: 4; }
+
+.CodeMirror-gutter-elt { position: absolute; cursor: default; z-index: 4; }
+
+.CodeMirror-gutter-wrapper ::selection { background-color: transparent; }
+
+.CodeMirror-lines { cursor: text; min-height: 1px; }
+
+.CodeMirror pre.CodeMirror-line, .CodeMirror pre.CodeMirror-line-like { border-radius: 0px; border-width: 0px; background: transparent; font-family: inherit; font-size: inherit; margin: 0px; white-space: pre; overflow-wrap: normal; line-height: inherit; color: inherit; z-index: 2; position: relative; overflow: visible; -webkit-tap-highlight-color: transparent; font-feature-settings: "calt"; font-variant-ligatures: contextual; }
+
+.CodeMirror-wrap pre.CodeMirror-line, .CodeMirror-wrap pre.CodeMirror-line-like { overflow-wrap: break-word; white-space: pre-wrap; word-break: normal; }
+
+.CodeMirror-linebackground { position: absolute; inset: 0px; z-index: 0; }
+
+.CodeMirror-linewidget { position: relative; z-index: 2; padding: 0.1px; }
+
+.CodeMirror-rtl pre { direction: rtl; }
+
+.CodeMirror-code { outline: none; }
+
+.CodeMirror-gutter, .CodeMirror-gutters, .CodeMirror-linenumber, .CodeMirror-scroll, .CodeMirror-sizer { box-sizing: content-box; }
+
+.CodeMirror-measure { position: absolute; width: 100%; height: 0px; overflow: hidden; visibility: hidden; }
+
+.CodeMirror-cursor { position: absolute; pointer-events: none; }
+
+.CodeMirror-measure pre { position: static; }
+
+div.CodeMirror-cursors { visibility: hidden; position: relative; z-index: 3; }
+
+.CodeMirror-focused div.CodeMirror-cursors, div.CodeMirror-dragcursors { visibility: visible; }
+
+.CodeMirror-selected { background: rgb(217, 217, 217); }
+
+.CodeMirror-focused .CodeMirror-selected { background: rgb(215, 212, 240); }
+
+.CodeMirror-crosshair { cursor: crosshair; }
+
+.CodeMirror-line::selection, .CodeMirror-line > span::selection, .CodeMirror-line > span > span::selection { background: rgb(215, 212, 240); }
+
+.cm-searching { background-color: rgba(255, 255, 0, 0.4); }
+
+.cm-force-border { padding-right: 0.1px; }
+
+@media print {
+  .CodeMirror div.CodeMirror-cursors { visibility: hidden; }
+}
+
+.cm-tab-wrap-hack::after { content: ""; }
+
+span.CodeMirror-selectedtext { background: none; }
+
+.cm-s-base16-light.CodeMirror { background: rgb(245, 245, 245); color: rgb(32, 32, 32); }
+
+.cm-s-base16-light div.CodeMirror-selected { background: rgb(224, 224, 224); }
+
+.cm-s-base16-light .CodeMirror-line::selection, .cm-s-base16-light .CodeMirror-line > span::selection, .cm-s-base16-light .CodeMirror-line > span > span::selection { background: rgb(224, 224, 224); }
+
+.cm-s-base16-light .CodeMirror-gutters { background: rgb(245, 245, 245); border-right: 0px; }
+
+.cm-s-base16-light .CodeMirror-guttermarker { color: rgb(172, 65, 66); }
+
+.cm-s-base16-light .CodeMirror-guttermarker-subtle, .cm-s-base16-light .CodeMirror-linenumber { color: rgb(176, 176, 176); }
+
+.cm-s-base16-light .CodeMirror-cursor { border-left: 1px solid rgb(80, 80, 80); }
+
+.cm-s-base16-light span.cm-comment { color: rgb(143, 85, 54); }
+
+.cm-s-base16-light span.cm-atom, .cm-s-base16-light span.cm-number { color: rgb(170, 117, 159); }
+
+.cm-s-base16-light span.cm-attribute, .cm-s-base16-light span.cm-property { color: rgb(144, 169, 89); }
+
+.cm-s-base16-light span.cm-keyword { color: rgb(172, 65, 66); }
+
+.cm-s-base16-light span.cm-string { color: rgb(244, 191, 117); }
+
+.cm-s-base16-light span.cm-variable { color: rgb(144, 169, 89); }
+
+.cm-s-base16-light span.cm-variable-2 { color: rgb(106, 159, 181); }
+
+.cm-s-base16-light span.cm-def { color: rgb(210, 132, 69); }
+
+.cm-s-base16-light span.cm-bracket { color: rgb(32, 32, 32); }
+
+.cm-s-base16-light span.cm-tag { color: rgb(172, 65, 66); }
+
+.cm-s-base16-light span.cm-link { color: rgb(170, 117, 159); }
+
+.cm-s-base16-light span.cm-error { background: rgb(172, 65, 66); color: rgb(80, 80, 80); }
+
+.cm-s-base16-light .CodeMirror-activeline-background { background: rgb(221, 220, 220); }
+
+.cm-s-base16-light .CodeMirror-matchingbracket { color: rgb(245, 245, 245) !important; background-color: rgb(106, 159, 181) !important; }
+
+.cm-s-colorforth.CodeMirror { background: rgb(0, 0, 0); color: rgb(248, 248, 248); }
+
+.cm-s-colorforth .CodeMirror-gutters { background: rgb(10, 0, 31); border-right: 1px solid rgb(170, 170, 170); }
+
+.cm-s-colorforth .CodeMirror-guttermarker { color: rgb(255, 189, 64); }
+
+.cm-s-colorforth .CodeMirror-guttermarker-subtle { color: rgb(120, 132, 111); }
+
+.cm-s-colorforth .CodeMirror-linenumber { color: rgb(186, 186, 186); }
+
+.cm-s-colorforth .CodeMirror-cursor { border-left: 1px solid rgb(255, 255, 255); }
+
+.cm-s-colorforth span.cm-comment { color: rgb(237, 237, 237); }
+
+.cm-s-colorforth span.cm-def { color: rgb(255, 28, 28); font-weight: 700; }
+
+.cm-s-colorforth span.cm-keyword { color: rgb(255, 217, 0); }
+
+.cm-s-colorforth span.cm-builtin { color: rgb(0, 217, 90); }
+
+.cm-s-colorforth span.cm-variable { color: rgb(115, 255, 0); }
+
+.cm-s-colorforth span.cm-string { color: rgb(0, 123, 255); }
+
+.cm-s-colorforth span.cm-number { color: rgb(0, 196, 255); }
+
+.cm-s-colorforth span.cm-atom { color: rgb(96, 96, 96); }
+
+.cm-s-colorforth span.cm-variable-2 { color: rgb(238, 238, 238); }
+
+.cm-s-colorforth span.cm-type, .cm-s-colorforth span.cm-variable-3 { color: rgb(221, 221, 221); }
+
+.cm-s-colorforth span.cm-meta { color: rgb(255, 255, 0); }
+
+.cm-s-colorforth span.cm-qualifier { color: rgb(255, 247, 0); }
+
+.cm-s-colorforth span.cm-bracket { color: rgb(204, 204, 119); }
+
+.cm-s-colorforth span.cm-tag { color: rgb(255, 189, 64); }
+
+.cm-s-colorforth span.cm-attribute { color: rgb(255, 247, 0); }
+
+.cm-s-colorforth span.cm-error { color: red; }
+
+.cm-s-colorforth div.CodeMirror-selected { background: rgb(51, 61, 83); }
+
+.cm-s-colorforth span.cm-compilation { background: rgba(255, 255, 255, 0.12); }
+
+.cm-s-colorforth .CodeMirror-activeline-background { background: rgb(37, 53, 64); }
+------MultipartBoundary--IgJYs4FLO7hppZ1EPy3MW4zks0L2gygfPcnJUvmIuy----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://www.programiz.com/html/online-compiler/_next/static/css/0a3a48fae23e3d96.css
+
+@charset "utf-8";
+
+.summer-sale-popup { gap: 16px; display: flex; right: 40px; bottom: 40px; color: rgb(37, 38, 94); max-width: 290px; position: absolute; border-radius: 4px; padding: 24px 20px; flex-direction: column; box-sizing: border-box; border: 1px solid rgb(211, 220, 230); font-family: euclid_circular, sans-serif; }
+
+@media (max-width: 768px) {
+  .summer-sale-popup { display: none; }
+}
+
+.summer-sale-popup h3 { margin: 0px; font-size: 18px; font-weight: 500; line-height: 28px; }
+
+.summer-sale-popup h5 { margin: 0px; font-size: 14px; font-weight: 400; line-height: 20px; color: var(--editor-text-color); }
+
+.summer-sale-popup a { width: 250px; font-weight: 600; border-radius: 4px; padding: 12px 16px; text-align: center; text-decoration: none; box-sizing: border-box; cursor: pointer; background: rgb(5, 86, 243); font-size: 14px; line-height: 20px; color: rgb(255, 255, 255); border: none; outline: none; z-index: 109; }
+
+.summer-sale-popup .summer-sale-container { gap: 4px; display: flex; max-width: 230px; flex-direction: column; }
+
+.svg-grey { height: 15px; }
+
+.close-pop-up-btn path { opacity: 0.3; fill-opacity: 1; stroke-opacity: 1; fill: var(--editor-text-color); }
+
+.close-pop-up-btn { border: none; margin: 0px 20px 0px 0px; background: transparent; cursor: pointer; }
+
+.close-icon-container-summer-sale { top: 16px; right: 16px; position: absolute; }
+
+.close-icon-container-summer-sale button { padding: 0px; }
+
+.run { border: none; z-index: 109; outline: none; color: rgb(255, 255, 255); cursor: pointer; font-size: 14px; padding: 6px 16px; line-height: 20px; font-weight: 700; border-radius: 4px; background: rgb(5, 86, 243); }
+
+.run:hover { background: rgb(0, 71, 209); }
+
+*, ::after, ::before { box-sizing: border-box; border: 0px solid rgb(229, 231, 235); }
+
+::after, ::before { --tw-content: ""; }
+
+html { line-height: 1.5; text-size-adjust: 100%; tab-size: 4; font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, Cantarell, "Noto Sans", sans-serif, BlinkMacSystemFont, "Helvetica Neue", Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+
+body { margin: 0px; line-height: inherit; }
+
+hr { height: 0px; color: inherit; border-top-width: 1px; }
+
+abbr:where([title]) { text-decoration: underline dotted; }
+
+h1, h2, h3, h4, h5, h6 { font-size: inherit; font-weight: inherit; }
+
+a { text-decoration: inherit; }
+
+b, strong { font-weight: bolder; }
+
+code, kbd, pre, samp { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; font-size: 1em; }
+
+small { font-size: 80%; }
+
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline; }
+
+sub { bottom: -0.25em; }
+
+sup { top: -0.5em; }
+
+table { text-indent: 0px; border-color: inherit; border-collapse: collapse; }
+
+button, input, optgroup, select, textarea { font-family: inherit; font-size: 100%; line-height: inherit; color: inherit; margin: 0px; padding: 0px; }
+
+button, select { text-transform: none; }
+
+[type="button"], [type="reset"], [type="submit"], button { appearance: button; background-color: transparent; background-image: none; }
+
+progress { vertical-align: baseline; }
+
+::-webkit-inner-spin-button, ::-webkit-outer-spin-button { height: auto; }
+
+[type="search"] { appearance: textfield; outline-offset: -2px; }
+
+::-webkit-search-decoration { appearance: none; }
+
+::-webkit-file-upload-button { appearance: button; font: inherit; }
+
+summary { display: list-item; }
+
+blockquote, dd, dl, figure, h1, h2, h3, h4, h5, h6, hr, p, pre { margin: 0px; }
+
+fieldset { margin: 0px; }
+
+fieldset, legend { padding: 0px; }
+
+menu, ol, ul { list-style: none; margin: 0px; padding: 0px; }
+
+textarea { resize: vertical; }
+
+input::placeholder, textarea::placeholder { opacity: 1; color: rgb(156, 163, 175); }
+
+[role="button"], button { cursor: pointer; }
+
+:disabled { cursor: default; }
+
+audio, canvas, embed, iframe, img, object, svg, video { display: block; vertical-align: middle; }
+
+img, video { max-width: 100%; height: auto; }
+
+[hidden] { display: none; }
+
+*, ::after, ::before { --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; }
+
+.static { position: static; }
+
+.fixed { position: fixed; }
+
+.absolute { position: absolute; }
+
+.relative { position: relative; }
+
+.top-0 { top: 0px; }
+
+.right-0 { right: 0px; }
+
+.left-0 { left: 0px; }
+
+.right-\[12px\] { right: 12px; }
+
+.top-\[21px\] { top: 21px; }
+
+.top-7 { top: 1.75rem; }
+
+.z-10 { z-index: 10; }
+
+.m-0 { margin: 0px; }
+
+.mx-2 { margin-left: 0.5rem; margin-right: 0.5rem; }
+
+.mx-8 { margin-left: 2rem; margin-right: 2rem; }
+
+.-ml-\[0\.8rem\] { margin-left: -0.8rem; }
+
+.mt-\[4\.98px\] { margin-top: 4.98px; }
+
+.mr-\[5px\] { margin-right: 5px; }
+
+.ml-\[8px\] { margin-left: 8px; }
+
+.ml-0 { margin-left: 0px; }
+
+.ml-\[auto\] { margin-left: auto; }
+
+.mr-\[0\] { margin-right: 0px; }
+
+.mr-\[6px\] { margin-right: 6px; }
+
+.ml-2 { margin-left: 0.5rem; }
+
+.ml-1 { margin-left: 0.25rem; }
+
+.ml-auto { margin-left: auto; }
+
+.mr-\[1px\] { margin-right: 1px; }
+
+.ml-\[24px\] { margin-left: 24px; }
+
+.block { display: block; }
+
+.flex { display: flex; }
+
+.hidden { display: none; }
+
+.h-full { height: 100%; }
+
+.h-\[36px\] { height: 36px; }
+
+.h-screen-small { height: calc(-7% + 100vh); }
+
+.h-\[23\.87px\] { height: 23.87px; }
+
+.h-6 { height: 1.5rem; }
+
+.h-2\/3 { height: 66.6667%; }
+
+.h-3 { height: 0.75rem; }
+
+.h-\[24\.5\%\] { height: 24.5%; }
+
+.h-\[117px\] { height: 117px; }
+
+.h-\[24px\] { height: 24px; }
+
+.h-\[0\] { height: 0px; }
+
+.h-\[7\%\] { height: 7%; }
+
+.h-4 { height: 1rem; }
+
+.min-h-\[90px\] { min-height: 90px; }
+
+.w-full { width: 100%; }
+
+.w-12 { width: 3rem; }
+
+.w-\[24px\] { width: 24px; }
+
+.w-6 { width: 1.5rem; }
+
+.w-\[102px\] { width: 102px; }
+
+.w-32 { width: 8rem; }
+
+.w-\[150px\] { width: 150px; }
+
+.w-\[728px\] { width: 728px; }
+
+.w-\[106px\] { width: 106px; }
+
+.w-4 { width: 1rem; }
+
+.min-w-\[50px\] { min-width: 50px; }
+
+.min-w-\[85px\] { min-width: 85px; }
+
+.max-w-\[240px\] { max-width: 240px; }
+
+.flex-1 { flex: 1 1 0%; }
+
+.rotate-180 { --tw-rotate: 180deg; }
+
+.rotate-180, .transform { transform: translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)); }
+
+.cursor-pointer { cursor: pointer; }
+
+.resize { resize: both; }
+
+.flex-col { flex-direction: column; }
+
+.place-content-between { place-content: space-between; }
+
+.items-start { align-items: flex-start; }
+
+.items-center { align-items: center; }
+
+.justify-start { justify-content: flex-start; }
+
+.justify-end { justify-content: flex-end; }
+
+.justify-center { justify-content: center; }
+
+.justify-between { justify-content: space-between; }
+
+.gap-2 { gap: 0.5rem; }
+
+.gap-4 { gap: 1rem; }
+
+.gap-1 { gap: 0.25rem; }
+
+.gap-\[8px\] { gap: 8px; }
+
+.self-center { align-self: center; }
+
+.overflow-auto { overflow: auto; }
+
+.overflow-hidden { overflow: hidden; }
+
+.overflow-x-auto { overflow-x: auto; }
+
+.overflow-y-auto { overflow-y: auto; }
+
+.rounded-md { border-radius: 0.375rem; }
+
+.rounded-\[2px\] { border-radius: 2px; }
+
+.border-\[1px\] { border-width: 1px; }
+
+.border-r-\[1px\] { border-right-width: 1px; }
+
+.border-b-\[1px\] { border-bottom-width: 1px; }
+
+.border-l-\[1px\] { border-left-width: 1px; }
+
+.border-\[\#E5E7EB\], .border-\[\#e5e7eb\] { --tw-border-opacity: 1; border-color: rgba(229,231,235,var(--tw-border-opacity)); }
+
+.border-transparent { border-color: transparent; }
+
+.border-b-\[\#fff\] { --tw-border-opacity: 1; border-bottom-color: rgba(255,255,255,var(--tw-border-opacity)); }
+
+.border-b-\[\#F5F5F5\] { --tw-border-opacity: 1; border-bottom-color: rgba(245,245,245,var(--tw-border-opacity)); }
+
+.bg-\[\#F5F5F5\] { --tw-bg-opacity: 1; background-color: rgba(245,245,245,var(--tw-bg-opacity)); }
+
+.bg-white { --tw-bg-opacity: 1; background-color: rgba(255,255,255,var(--tw-bg-opacity)); }
+
+.bg-transparent { background-color: transparent; }
+
+.bg-\[\#00000080\] { background-color: rgba(0, 0, 0, 0.5); }
+
+.bg-\[\#FFFFFF\] { --tw-bg-opacity: 1; background-color: rgba(255,255,255,var(--tw-bg-opacity)); }
+
+.bg-gray-10 { --tw-bg-opacity: 1; background-color: rgba(245,245,245,var(--tw-bg-opacity)); }
+
+.bg-gray-20 { --tw-bg-opacity: 1; background-color: rgba(255,255,255,var(--tw-bg-opacity)); }
+
+.p-\[50px\] { padding: 50px; }
+
+.p-2 { padding: 0.5rem; }
+
+.p-\[9px\] { padding: 9px; }
+
+.p-\[16px\] { padding: 16px; }
+
+.p-\[6px\] { padding: 6px; }
+
+.p-\[14px\] { padding: 14px; }
+
+.px-\[16px\] { padding-left: 16px; padding-right: 16px; }
+
+.py-\[8px\] { padding-top: 8px; padding-bottom: 8px; }
+
+.px-\[12px\] { padding-left: 12px; padding-right: 12px; }
+
+.px-\[8px\] { padding-left: 8px; padding-right: 8px; }
+
+.py-\[4px\] { padding-top: 4px; padding-bottom: 4px; }
+
+.py-2 { padding-top: 0.5rem; padding-bottom: 0.5rem; }
+
+.px-3 { padding-left: 0.75rem; padding-right: 0.75rem; }
+
+.py-1 { padding-top: 0.25rem; padding-bottom: 0.25rem; }
+
+.px-\[19px\] { padding-left: 19px; padding-right: 19px; }
+
+.pt-\[16px\] { padding-top: 16px; }
+
+.pr-2 { padding-right: 0.5rem; }
+
+.pb-\[36px\] { padding-bottom: 36px; }
+
+.pr-\[8px\] { padding-right: 8px; }
+
+.pt-\[5px\] { padding-top: 5px; }
+
+.pb-\[4px\] { padding-bottom: 4px; }
+
+.pr-\[0px\] { padding-right: 0px; }
+
+.pl-\[18px\] { padding-left: 18px; }
+
+.pl-\[27px\] { padding-left: 27px; }
+
+.pl-\[21px\] { padding-left: 21px; }
+
+.pt-\[8px\] { padding-top: 8px; }
+
+.pb-\[16px\] { padding-bottom: 16px; }
+
+.pl-\[1px\] { padding-left: 1px; }
+
+.text-center { text-align: center; }
+
+.font-\[DroidSansMono\] { font-family: DroidSansMono; }
+
+.text-\[12px\] { font-size: 12px; }
+
+.text-\[14px\] { font-size: 14px; }
+
+.text-xs { font-size: 0.75rem; line-height: 1rem; }
+
+.text-sm { font-size: 0.875rem; line-height: 1.25rem; }
+
+.font-normal { font-weight: 400; }
+
+.font-semibold { font-weight: 600; }
+
+.leading-\[20px\] { line-height: 20px; }
+
+.leading-\[16px\] { line-height: 16px; }
+
+.leading-5 { line-height: 1.25rem; }
+
+.leading-\[1\] { line-height: 1; }
+
+.text-\[\#25265EAB\], .text-blue-50 { color: rgba(37, 38, 94, 0.67); }
+
+.text-\[\#CB6D6F\] { --tw-text-opacity: 1; color: rgba(203,109,111,var(--tw-text-opacity)); }
+
+.text-red-10 { --tw-text-opacity: 1; color: rgba(172,65,67,var(--tw-text-opacity)); }
+
+.text-gray-100 { color: rgba(37, 38, 94, 0.67); }
+
+.text-red-500 { --tw-text-opacity: 1; color: rgba(239,68,68,var(--tw-text-opacity)); }
+
+.text-\[\#25265E\], .text-black-10 { --tw-text-opacity: 1; color: rgba(37,38,94,var(--tw-text-opacity)); }
+
+.text-blue-100 { --tw-text-opacity: 1; color: rgba(5,86,243,var(--tw-text-opacity)); }
+
+.shadow-sm { --tw-shadow: 0 1px 2px 0 rgba(0,0,0,.05); --tw-shadow-colored: 0 1px 2px 0 var(--tw-shadow-color); }
+
+.shadow-md, .shadow-sm { box-shadow: var(--tw-ring-offset-shadow,0 0 transparent),var(--tw-ring-shadow,0 0 transparent),var(--tw-shadow); }
+
+.shadow-md { --tw-shadow: 0 4px 6px -1px rgba(0,0,0,.1),0 2px 4px -2px rgba(0,0,0,.1); --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color),0 2px 4px -2px var(--tw-shadow-color); }
+
+.outline { outline-style: solid; }
+
+.filter { filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow); }
+
+:root { --primary: #f5f5f5; --editor-text-color: #25265e; --primary-border-color: #e5e7eb; --primary-number-color: rgba(37,38,94,.87); --draggable-icon: url(/html/online-compiler/_next/static/media/draggableIcon.38ea0da1.svg); --cta-border-color: #0556f3; --cta-text-color: var(--cta-border-color); --cta-background-color: #f8faff; }
+
+.dark { --primary: #1c2130; --editor-comment: #8da0ff; --primary-number-color: #fff; --primary-background-color: #2d2f34; --primary-border-color: #6c6c6c; --draggable-icon: url(/html/online-compiler/_next/static/media/darkdraggableIcon.db64c6b9.svg); --cta-border-color: var(--primary-number-color); --cta-text-color: var(--cta-border-color); --cta-background-color: #1f2023; }
+
+body, html { font-feature-settings: "kern" 0; font-kerning: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; font-family: EuclidCircularA-Regular; height: 100vh; overflow: hidden; }
+
+a { color: inherit; text-decoration: none; }
+
+* { box-sizing: border-box; }
+
+#__next { height: 100%; }
+
+.CodeMirror { font-size: 14px; height: 100% !important; font-family: DroidSansMono !important; }
+
+.react-codemirror2 { height: 100%; }
+
+#browser { font-family: Roboto-Mono; }
+
+.CodeMirror-scroll { overflow-y: auto !important; width: 100%; }
+
+* { scrollbar-width: inherit; }
+
+::-webkit-scrollbar { width: 5px; }
+
+.tabList::-webkit-scrollbar { display: none; }
+
+::-webkit-scrollbar-thumb { background-color: rgb(211, 211, 211); }
+
+.react-responsive-modal-modal { width: 520px; border: 1px solid rgb(211, 220, 230); box-sizing: border-box; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 11px; border-radius: 10px; font-family: EuclidCircularA-Regular; padding: 32px 32px 40px !important; overflow: hidden !important; }
+
+.model-header { font-weight: 600; font-size: 22px; line-height: 30px; color: rgb(37, 38, 94); margin-bottom: 16px; }
+
+.model-content, .model-header { font-family: EuclidCircularA-Regular; font-style: normal; }
+
+.model-content { font-weight: 400; font-size: 16px; line-height: 24px; margin-bottom: 24px; color: rgba(37, 38, 94, 0.87); }
+
+.modal-delete-btn { width: 169px; height: 48px; color: rgb(255, 255, 255); font-weight: 600; border-radius: 4px; align-items: center; background: rgb(227, 76, 76); }
+
+.modal-delete-btn:active, .modal-delete-btn:focus, .modal-delete-btn:hover { background: rgb(215, 22, 22); text-decoration: none; }
+
+.model-cancel-btn { padding-right: 24px; color: rgb(37, 38, 94); }
+
+.drop-down { color: rgb(227, 76, 76); position: absolute; display: none !important; }
+
+.drop-down_active { inset: 23.44% 89.72% 70.18% 5.35%; background: rgb(255, 255, 255); }
+
+.accordion-collapse, .drop-down_active { position: absolute; box-shadow: rgba(11, 1, 1, 0.08) 0px 2px 8px; border-radius: 2px; }
+
+.accordion-collapse { left: 76px; z-index: 999; border: 1px solid var(--primary-border-color); }
+
+#filesUnderFolder::before, #firstFile::before, #lastFile::before { content: ""; width: 1px; display: block; position: absolute; background-color: rgb(211, 220, 230); left: 34px; height: 24px; }
+
+#lastFile::before { height: 18px; }
+
+.dark #filesUnderFolder::before, .dark #firstFile::before, .dark #lastFile::before { background-color: rgba(255, 255, 255, 0.2); }
+
+.light { --options-primary-color: #fff; }
+
+.dark { --options-primary-color: #1c2130; }
+
+.accordion-files::before { left: 50px; }
+
+.accordion-collapse::before, .accordion-files::before { content: ""; top: -2px; width: 5.06px; height: 5.06px; position: absolute; background: rgb(255, 255, 255); border-top: 1px solid var(--primary-border-color); border-right: 1px solid var(--primary-border-color); transform: matrix(0.7, -0.6, 0.8, 0.6, -1, -1); }
+
+.accordion-collapse::before { left: 55px; }
+
+.accordion-content { background: rgb(255, 255, 255); box-shadow: rgba(11, 1, 1, 0.08) 0px 2px 8px; border-radius: 2px; }
+
+.accordion-pointer { top: -4px; left: 60px; width: 5.06px; height: 5.06px; position: absolute; background: rgb(255, 255, 255); transform: matrix(0.71, -0.61, 0.83, 0.71, 0, 0); }
+
+.gutter { background-color: rgb(255, 255, 255); background-repeat: no-repeat; background-position: 50% center; }
+
+.gutter::before { content: var(--draggable-icon); position: relative; z-index: 6; left: -35px; top: 50%; }
+
+.gutter.gutter-horizontal { cursor: col-resize; background-position: 50% center; width: 0px !important; }
+
+.input-form { background: rgb(245, 245, 245); }
+
+.browser-mob-view { display: none; }
+
+.browser { width: 100% !important; }
+
+.CodeMirror-gutter, .CodeMirror-gutters, .CodeMirror-linenumber, .CodeMirror-scroll, .CodeMirror-sizer { box-sizing: content-box; background: var(--primary) !important; border: none !important; }
+
+@media (min-width: 768px) {
+  .editorBrowserWrapper { border-left: 1px solid var(--primary-border-color); }
+  .accordion-files::before { left: 58px; }
+}
+
+.consoleWrapper { border-top: 1px solid var(--primary-border-color); }
+
+.stroke-modify { stroke: red; }
+
+.cm-s-colorforth span.cm-comment { color: var(--editor-comment) !important; }
+
+.cm-s-colorforth span.cm-meta { color: rgb(1, 172, 121) !important; }
+
+.cm-s-colorforth span.cm-string { color: rgb(203, 109, 111) !important; }
+
+.cm-s-colorforth span.cm-attribute, .cm-s-colorforth span.cm-attribute::after, .cm-s-colorforth span.cm-tag { color: rgb(1, 172, 121) !important; }
+
+.htmlFileDropdown { border: 1px solid var(--primary-border-color); box-shadow: rgba(11, 1, 1, 0.08) 0px 2px 8px; top: 15px; margin-top: 3px; left: 4px; border-radius: 2px; }
+
+.htmlFileDropdown::before { content: ""; width: 5.06px; height: 5.06px; right: 4px; border-top: 1px solid var(--primary-border-color); border-right: 1px solid var(--primary-border-color); position: absolute; background: rgb(255, 255, 255); transform: matrix(0.7, -0.6, 0.8, 0.6, -1, -7); }
+
+.dark .accordion-collapse::before, .dark .accordion-files::before, .dark .htmlFileDropdown::before { background: rgb(45, 47, 52); border-color: rgb(108, 108, 108); }
+
+.CodeMirror-code { line-height: 20px; }
+
+.CodeMirror-sizer { padding-top: 12px; }
+
+.CodeMirror-linenumber { color: var(--primary-number-color) !important; }
+
+.cm-s-base16-light .CodeMirror-linenumber { padding-right: 8px !important; }
+
+.browserRight-arrow:hover { stroke: rgb(5, 86, 243) !important; stroke-opacity: 1 !important; stroke-width: 1.33333 !important; }
+
+.CodeMirror pre.CodeMirror-line, .CodeMirror pre.CodeMirror-line-like { padding: 0px 8px !important; }
+
+.CodeMirror-linenumber { width: 17px !important; padding: 0px 0px 0px 8px !important; background-color: var(--primary) !important; }
+
+.react-responsive-modal-closeButton { margin-top: 11px; margin-right: 11px; }
+
+.compiler-header-ad-wrapper { display: none; }
+
+.compiler-header-cta { text-decoration: none; text-align: center; border: 1px solid var(--cta-border-color); color: var(--cta-text-color); font-size: 12px; box-sizing: border-box; border-radius: 4px; padding: 6px 16px; background-color: var(--table-background-color); font-weight: 500; }
+
+@media only screen and (min-width: 768px) {
+  .CodeMirror-sizer { padding-top: 16px; }
+  .compiler-header-ad-wrapper { display: flex; }
+  .compiler-header-cta { font-size: 14px; padding: 10px 16px; }
+}
+
+.rootFile { padding-left: 25px; }
+
+.rootFileRename { padding-left: 21px; }
+
+.nestedFile { padding-left: 43px; }
+
+.nestedFileRename { padding-left: 45px; }
+
+.folder { padding-left: 28px; }
+
+@media only screen and (max-width: 768px) {
+  .react-responsive-modal-closeButton { top: 18px !important; margin-top: 11px; }
+  .browser-mob-view { display: flex !important; }
+  .split { display: none !important; }
+  .gutter { display: none; }
+  .browserContainer, .editor { width: 100% !important; }
+  .learnPythonButton { min-width: 121px; min-height: 28px; font-size: 12px; line-height: 16px; display: flex; align-items: center; margin-right: 0px; padding: 6px 16px; }
+  .nav-subtitle { font-size: 10px; line-height: 15px; }
+  .react-responsive-modal-modal { width: 328px; background: rgb(255, 255, 255); border: 1px solid rgb(211, 220, 230); box-sizing: border-box; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 11px; border-radius: 10px; font-family: EuclidCircularA-Regular; margin: 0px; padding: 0px !important; overflow: hidden !important; }
+  .delete-modal-wrapper { padding: 32px 24px; width: 328px; }
+  .sidebar { width: 141px; }
+  .navbarTitle { margin-left: 16px; }
+  .rootFile { padding-left: 17px; }
+  .rootFileRename { padding-left: 14px; }
+  .nestedFile { padding-left: 35px; }
+  .nestedFileRename { padding-left: 38px; }
+  .folder { padding-left: 20px; }
+  #filesUnderFolder::before, #firstFile::before, #lastFile::before { left: 27px; }
+  .accordion-collapse { left: 67px; }
+  .tricolonView { display: block; }
+}
+
+.file-options:hover > path { fill: rgb(5, 86, 243); }
+
+.cm-error { color: rgb(144, 169, 89); background-color: unset !important; }
+
+.tooltip-parent:hover .tooltiptext-panel { visibility: visible; opacity: 1; z-index: 1; }
+
+.tooltip-parent .tooltiptext-panel::after { content: ""; position: absolute; top: 100%; left: 50%; margin-left: -5px; border-width: 5px; border-style: solid; border-color: rgb(229, 231, 235) transparent transparent; border-image: initial; }
+
+.tooltip-parent-tabslist:hover .tooltiptext-panel-tabslist { visibility: visible; opacity: 1; z-index: 1; }
+
+.tooltiptext-panel-tabslist { visibility: hidden; background-color: rgb(255, 255, 255); height: 30px; text-align: center; border-radius: 6px; padding: 5px; color: rgba(37, 38, 94, 0.67); border: 1px solid rgb(229, 231, 235); margin: 0px 0px 0px -76px; }
+
+.tooltiptext-panel { top: -32px; left: 75px; }
+
+.tooltiptext, .tooltiptext-panel { visibility: hidden; position: absolute; background-color: rgb(255, 255, 255); height: 30px; text-align: center; border-radius: 6px; padding: 5px; color: rgba(37, 38, 94, 0.67); border: 1px solid rgb(229, 231, 235); margin: 0px 0px 0px -76px; }
+
+.tooltiptext { top: 33px; }
+
+.file-tabs { overflow-x: auto !important; scrollbar-width: inherit !important; }
+
+.file-tabs::-webkit-scrollbar { width: 5px; height: 2px; }
+
+.file-tabs::-webkit-scrollbar-thumb { border-radius: 50px; }
+
+.CodeMirror-hscrollbar { overflow-x: auto !important; scrollbar-width: auto !important; }
+
+.CodeMirror-hscrollbar::-webkit-scrollbar { width: 5px; height: 7px; }
+
+.CodeMirror-hscrollbar::-webkit-scrollbar-thumb { border-radius: 50px; }
+
+@media not all and (-webkit-min-device-pixel-ratio: 0), not all and (min-resolution: 0.001dpcm) {
+  @media screen {
+  .CodeMirror-sizer { margin-left: 37px !important; margin-bottom: -5px !important; min-height: 528px !important; padding-right: 0px !important; padding-top: 12px !important; padding-bottom: 0px !important; }
+  .CodeMirror-gutters { height: 613px !important; }
+  .CodeMirror-gutter, .CodeMirror-linenumber { width: 37px !important; z-index: 9; }
+  .CodeMirror-code { line-height: 20px !important; }
+  .CodeMirror-linenumber { color: var(--primary-number-color) !important; }
+  .cm-s-base16-light .CodeMirror-linenumber { padding-right: 8px !important; left: 0px !important; }
+  .CodeMirror pre.CodeMirror-line, .CodeMirror pre.CodeMirror-line-like { padding: 0px 8px !important; }
+  .CodeMirror-linenumber { width: 17px !important; padding: 0px 0px 0px 8px !important; background-color: var(--primary) !important; }
+}
+}
+
+.emoji { font-family: "Segoe UI Emoji"; }
+
+.text-purple { color: rgb(101, 1, 229) !important; }
+
+.folder-left-arrow { transform: rotate(-90deg); transition: transform 0.2s ease-in-out; }
+
+.folder-left-arrow.open { transform: rotate(0deg); }
+
+.collapse-browser:hover svg path, .format-icon:hover svg path, .refresh-icon:hover svg path, .toggle-browser:hover svg path { stroke: rgb(5, 86, 243); }
+
+.refresh-icon--rotate { transition: 0.3s ease-in-out; rotate: 1turn; }
+
+.toggle-browser { transform: rotate(-180deg); transition: transform 0.2s ease-in-out; }
+
+.toggle-browser--open { transform: rotate(0deg); }
+
+.hover\:bg-gray-10:hover { --tw-bg-opacity: 1; background-color: rgba(245,245,245,var(--tw-bg-opacity)); }
+
+.hover\:text-blue-100:hover { --tw-text-opacity: 1; color: rgba(5,86,243,var(--tw-text-opacity)); }
+
+.hover\:text-red-600:hover { --tw-text-opacity: 1; color: rgba(220,38,38,var(--tw-text-opacity)); }
+
+.focus\:border-transparent:focus { border-color: transparent; }
+
+.focus\:ring-0:focus { --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color); --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(0px + var(--tw-ring-offset-width)) var(--tw-ring-color); box-shadow: var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow,0 0 transparent); }
+
+.group:hover .group-hover\:block { display: block; }
+
+.dark .dark\:hidden { display: none; }
+
+.dark .dark\:border-\[\#FFFFFF33\] { border-color: rgba(255, 255, 255, 0.2); }
+
+.dark .dark\:border-\[\#6C6C6C\] { --tw-border-opacity: 1; border-color: rgba(108,108,108,var(--tw-border-opacity)); }
+
+.dark .dark\:border-gray-50 { border-color: rgba(255, 255, 255, 0.2); }
+
+.dark .dark\:border-\[\#1C2130\] { --tw-border-opacity: 1; border-color: rgba(28,33,48,var(--tw-border-opacity)); }
+
+.dark .dark\:bg-\[\#1C2130\] { --tw-bg-opacity: 1; background-color: rgba(28,33,48,var(--tw-bg-opacity)); }
+
+.dark .dark\:bg-\[\#2D2F34\] { --tw-bg-opacity: 1; background-color: rgba(45,47,52,var(--tw-bg-opacity)); }
+
+.dark .dark\:bg-slate-50 { --tw-bg-opacity: 1; background-color: rgba(248,250,252,var(--tw-bg-opacity)); }
+
+.dark .dark\:bg-\[\#383B40\] { --tw-bg-opacity: 1; background-color: rgba(56,59,64,var(--tw-bg-opacity)); }
+
+.dark .dark\:bg-\[\#1F2023\] { --tw-bg-opacity: 1; background-color: rgba(31,32,35,var(--tw-bg-opacity)); }
+
+.dark .dark\:text-\[\#FFFFFF\], .dark .dark\:text-white { --tw-text-opacity: 1; color: rgba(255,255,255,var(--tw-text-opacity)); }
+
+.dark .dark\:text-\[\#FFFFFFAB\] { color: rgba(255, 255, 255, 0.67); }
+
+.dark .dark\:text-\[\#ffffff\] { --tw-text-opacity: 1; color: rgba(255,255,255,var(--tw-text-opacity)); }
+
+.dark .dark\:text-\[\#FFFFFFDE\] { color: rgba(255, 255, 255, 0.87); }
+
+.dark .dark\:text-\[\#699AF8\] { --tw-text-opacity: 1; color: rgba(105,154,248,var(--tw-text-opacity)); }
+
+.dark .dark\:hover\:bg-\[\#383B40\]:hover { --tw-bg-opacity: 1; background-color: rgba(56,59,64,var(--tw-bg-opacity)); }
+
+@media (min-width: 768px) {
+  .md\:mr-\[6px\] { margin-right: 6px; }
+  .md\:mr-\[0\] { margin-right: 0px; }
+  .md\:block { display: block; }
+  .md\:flex { display: flex; }
+  .md\:hidden { display: none; }
+  .md\:h-\[calc\(100vh-139px\)\] { height: calc(-139px + 100vh); }
+  .md\:h-\[calc\(100vh-322px\)\] { height: calc(-322px + 100vh); }
+  .md\:h-full { height: 100%; }
+  .md\:h-\[37px\] { height: 37px; }
+  .md\:h-\[102px\] { height: 102px; }
+  .md\:w-auto { width: auto; }
+  .md\:w-\[126px\] { width: 126px; }
+  .md\:max-w-\[240px\] { max-width: 240px; }
+  .md\:flex-1 { flex: 1 1 0%; }
+  .md\:flex-grow { flex-grow: 1; }
+  .md\:flex-row { flex-direction: row; }
+  .md\:flex-wrap { flex-wrap: wrap; }
+  .md\:items-center { align-items: center; }
+  .md\:gap-4 { gap: 1rem; }
+  .md\:border-b-0 { border-bottom-width: 0px; }
+  .md\:p-4 { padding: 1rem; }
+  .md\:pl-\[16px\] { padding-left: 16px; }
+  .md\:leading-normal { line-height: 1.5; }
+  .dark .dark\:md\:block { display: block; }
+}
+
+@media (min-width: 1024px) {
+  .lg\:flex-row { flex-direction: row; }
+}
+
+.react-responsive-modal-root { position: fixed; inset: 0px; z-index: 1000; }
+
+.react-responsive-modal-overlay { background: rgba(0, 0, 0, 0.5); position: fixed; inset: 0px; z-index: -1; }
+
+.react-responsive-modal-container { height: 100%; outline: 0px; overflow: hidden auto; text-align: center; }
+
+.react-responsive-modal-containerCenter::after { width: 0px; height: 100%; content: ""; display: inline-block; vertical-align: middle; }
+
+.react-responsive-modal-modal { max-width: 800px; display: inline-block; text-align: left; vertical-align: middle; background: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.25) 0px 12px 15px 0px; margin: 1.2rem; padding: 1.2rem; position: relative; overflow-y: auto; }
+
+.react-responsive-modal-closeButton { position: absolute; top: 14px; right: 14px; border: none; padding: 0px; cursor: pointer; background-color: transparent; display: flex; }
+
+@-webkit-keyframes react-responsive-modal-overlay-in { 
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes react-responsive-modal-overlay-in { 
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@-webkit-keyframes react-responsive-modal-overlay-out { 
+  0% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+@keyframes react-responsive-modal-overlay-out { 
+  0% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+@-webkit-keyframes react-responsive-modal-modal-in { 
+  0% { transform: scale(0.96); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+@keyframes react-responsive-modal-modal-in { 
+  0% { transform: scale(0.96); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+@-webkit-keyframes react-responsive-modal-modal-out { 
+  0% { transform: scale(1); opacity: 1; }
+  100% { transform: scale(0.96); opacity: 0; }
+}
+
+@keyframes react-responsive-modal-modal-out { 
+  0% { transform: scale(1); opacity: 1; }
+  100% { transform: scale(0.96); opacity: 0; }
+}
+------MultipartBoundary--IgJYs4FLO7hppZ1EPy3MW4zks0L2gygfPcnJUvmIuy----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-10787025-cbfe-46ba-bed2-207e357ef075@mhtml.blink
+
+@charset "utf-8";
+
+.unic { -webkit-font-smoothing: antialiased; line-height: 1.15; text-size-adjust: 100%; box-sizing: border-box; font-family: sans-serif; }
+
+.unic main { display: block; }
+
+.unic h1 { font-size: 2em; margin: 0.67em 0px; }
+
+.unic hr { box-sizing: content-box; height: 0px; overflow: visible; }
+
+.unic pre { font-family: monospace, monospace; font-size: 1em; }
+
+.unic a { background-color: transparent; }
+
+.unic abbr[title] { border-bottom: none; text-decoration: underline dotted; }
+
+.unic b, .unic strong { font-weight: bolder; }
+
+.unic code, .unic kbd, .unic samp { font-family: monospace, monospace; font-size: 1em; }
+
+.unic small { font-size: 80%; }
+
+.unic sub, .unic sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline; }
+
+.unic sub { bottom: -0.25em; }
+
+.unic sup { top: -0.5em; }
+
+.unic img { border-style: none; }
+
+.unic button, .unic input, .unic optgroup, .unic select, .unic textarea { font-family: inherit; font-size: 100%; line-height: 1.15; margin: 0px; }
+
+.unic button, .unic input { overflow: visible; }
+
+.unic button, .unic select { text-transform: none; }
+
+.unic [type="button"], .unic [type="reset"], .unic [type="submit"], .unic button { appearance: button; }
+
+.unic fieldset { padding: 0.35em 0.75em 0.625em; }
+
+.unic legend { box-sizing: border-box; color: inherit; display: table; max-width: 100%; padding: 0px; white-space: normal; }
+
+.unic progress { vertical-align: baseline; }
+
+.unic textarea { overflow: auto; }
+
+.unic [type="checkbox"], .unic [type="radio"] { box-sizing: border-box; padding: 0px; }
+
+.unic [type="number"]::-webkit-inner-spin-button, .unic [type="number"]::-webkit-outer-spin-button { height: auto; }
+
+.unic [type="search"] { appearance: textfield; outline-offset: -2px; }
+
+.unic [type="search"]::-webkit-search-decoration { appearance: none; }
+
+.unic ::-webkit-file-upload-button { appearance: button; font: inherit; }
+
+.unic details { display: block; }
+
+.unic summary { display: list-item; }
+
+.unic [hidden], .unic template { display: none; }
+
+.unic *, .unic ::after, .unic ::before { box-sizing: inherit; }
+
+.unic blockquote, .unic dd, .unic dl, .unic figure, .unic h1, .unic h2, .unic h3, .unic h4, .unic h5, .unic h6, .unic hr, .unic p, .unic pre { margin: 0px; }
+
+.unic button { background: transparent; padding: 0px; white-space: normal; }
+
+.unic button:focus { outline: -webkit-focus-ring-color auto 5px; }
+
+.unic fieldset, .unic ol, .unic ul { margin: 0px; padding: 0px; }
+
+.unic ol, .unic ul { list-style: none; }
+
+.unic * { line-height: 1.5; font-weight: 400; height: auto; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important; }
+
+.unic *, .unic ::after, .unic ::before { border: 0px solid rgb(226, 232, 240); }
+
+.unic hr { border-top-width: 1px; }
+
+.unic img { border-style: solid; }
+
+.unic textarea { resize: vertical; }
+
+.unic input::-webkit-input-placeholder, .unic textarea::-webkit-input-placeholder { color: rgb(160, 174, 192); }
+
+.unic input::placeholder, .unic textarea::placeholder { color: rgb(160, 174, 192); }
+
+.unic [role="button"], .unic button { cursor: pointer; }
+
+.unic table { border-collapse: collapse; }
+
+.unic h1, .unic h2, .unic h3, .unic h4, .unic h5, .unic h6 { font-size: inherit; font-weight: inherit; }
+
+.unic a { color: inherit; text-decoration: inherit; }
+
+.unic button, .unic input, .unic optgroup, .unic select, .unic textarea { padding: 0px; line-height: inherit; color: inherit; }
+
+.unic code, .unic kbd, .unic pre, .unic samp { font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+
+.unic audio, .unic canvas, .unic embed, .unic iframe, .unic img, .unic object, .unic svg, .unic video { display: block; vertical-align: middle; }
+
+.unic img, .unic video { max-width: 100%; height: auto; }
+
+.unic .container { width: 100%; }
+
+@media (min-width: 640px) {
+  .unic .container { max-width: 640px; }
+}
+
+@media (min-width: 768px) {
+  .unic .container { max-width: 768px; }
+}
+
+@media (min-width: 1024px) {
+  .unic .container { max-width: 1024px; }
+}
+
+@media (min-width: 1280px) {
+  .unic .container { max-width: 1280px; }
+}
+
+.unic .bg-white { background-color: rgb(255, 255, 255); }
+
+.unic .bg-gray-200 { background-color: rgb(237, 242, 247); }
+
+.unic .bg-gray-300 { background-color: rgb(226, 232, 240); }
+
+.unic .bg-gray-400, .unic .hover\:bg-gray-400:hover { background-color: rgb(203, 213, 224); }
+
+.unic .hover\:bg-gray-600:hover { background-color: rgb(113, 128, 150); }
+
+.unic .border-gray-300 { border-color: rgb(226, 232, 240); }
+
+.unic .rounded { border-radius: 4px; }
+
+.unic .rounded-full { border-radius: 9999px; }
+
+.unic .rounded-t-lg { border-top-left-radius: 8px; border-top-right-radius: 8px; }
+
+.unic .rounded-b-lg { border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; }
+
+.unic .border-solid { border-style: solid; }
+
+.unic .border { border-width: 1px; }
+
+.unic .border-t { border-top-width: 1px; }
+
+.unic .border-r { border-right-width: 1px; }
+
+.unic .border-b { border-bottom-width: 1px; }
+
+.unic .border-l { border-left-width: 1px; }
+
+.unic .cursor-pointer { cursor: pointer; }
+
+.unic .block { display: block; }
+
+.unic .inline { display: inline; }
+
+.unic .flex { display: flex; }
+
+.unic .hidden { display: none; }
+
+.unic .flex-row { -webkit-box-orient: horizontal; -webkit-box-direction: normal; flex-direction: row; }
+
+.unic .flex-col { -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; }
+
+.unic .flex-wrap { flex-wrap: wrap; }
+
+.unic .items-start { -webkit-box-align: start; align-items: flex-start; }
+
+.unic .items-center { -webkit-box-align: center; align-items: center; }
+
+.unic .justify-start { -webkit-box-pack: start; justify-content: flex-start; }
+
+.unic .justify-center { -webkit-box-pack: center; justify-content: center; }
+
+.unic .justify-between { -webkit-box-pack: justify; justify-content: space-between; }
+
+.unic .flex-1 { -webkit-box-flex: 1; flex: 1 1 0%; }
+
+.unic .flex-auto { -webkit-box-flex: 1; flex: 1 1 auto; }
+
+.unic .font-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+
+.unic .font-bold { font-weight: 700; }
+
+.unic .h-3 { height: 12px; }
+
+.unic .h-4 { height: 16px; }
+
+.unic .h-5 { height: 20px; }
+
+.unic .h-32 { height: 128px; }
+
+.unic .h-40 { height: 160px; }
+
+.unic .h-64 { height: 256px; }
+
+.unic .h-full { height: 100%; }
+
+.unic .m-2 { margin: 8px; }
+
+.unic .m-auto { margin: auto; }
+
+.unic .mx-0 { margin-left: 0px; margin-right: 0px; }
+
+.unic .mx-1 { margin-left: 4px; margin-right: 4px; }
+
+.unic .mx-2 { margin-left: 8px; margin-right: 8px; }
+
+.unic .mt-2 { margin-top: 8px; }
+
+.unic .mb-2 { margin-bottom: 8px; }
+
+.unic .ml-4 { margin-left: 16px; }
+
+.unic .mt-auto { margin-top: auto; }
+
+.unic .ml-auto { margin-left: auto; }
+
+.unic .max-h-full { max-height: 100%; }
+
+.unic .max-w-xl { max-width: 576px; }
+
+.unic .max-w-2xl { max-width: 672px; }
+
+.unic .object-scale-down { object-fit: scale-down; }
+
+.unic .outline-none { outline: 0px; }
+
+.unic .overflow-scroll { overflow: scroll; }
+
+.unic .overflow-x-hidden { overflow-x: hidden; }
+
+.unic .p-1 { padding: 4px; }
+
+.unic .p-2 { padding: 8px; }
+
+.unic .p-4 { padding: 16px; }
+
+.unic .p-6 { padding: 24px; }
+
+.unic .py-1 { padding-top: 4px; padding-bottom: 4px; }
+
+.unic .py-2 { padding-top: 8px; padding-bottom: 8px; }
+
+.unic .px-2 { padding-left: 8px; padding-right: 8px; }
+
+.unic .px-4 { padding-left: 16px; padding-right: 16px; }
+
+.unic .py-6 { padding-top: 24px; padding-bottom: 24px; }
+
+.unic .pb-0 { padding-bottom: 0px; }
+
+.unic .pr-1 { padding-right: 4px; }
+
+.unic .pr-2 { padding-right: 8px; }
+
+.unic .pb-2 { padding-bottom: 8px; }
+
+.unic .pt-4 { padding-top: 16px; }
+
+.unic .static { position: static; }
+
+.unic .fixed { position: fixed; }
+
+.unic .absolute { position: absolute; }
+
+.unic .relative { position: relative; }
+
+.unic .inset-y-0 { top: 0px; bottom: 0px; }
+
+.unic .inset-x-0 { right: 0px; left: 0px; }
+
+.unic .top-0 { top: 0px; }
+
+.unic .right-0 { right: 0px; }
+
+.unic .bottom-0 { bottom: 0px; }
+
+.unic .left-0 { left: 0px; }
+
+.unic .shadow { box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px; }
+
+.unic .shadow-md { box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px; }
+
+.unic .shadow-inner { box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px 0px inset; }
+
+.unic .text-center { text-align: center; }
+
+.unic .text-black { color: rgb(0, 0, 0); }
+
+.unic .text-gray-700 { color: rgb(74, 85, 104); }
+
+.unic .text-gray-800 { color: rgb(45, 55, 72); }
+
+.unic .text-blue-600 { color: rgb(49, 130, 206); }
+
+.unic .hover\:text-white:hover { color: rgb(255, 255, 255); }
+
+.unic .text-xs { font-size: 12px; }
+
+.unic .text-sm { font-size: 14px; }
+
+.unic .text-lg { font-size: 18px; }
+
+.unic .text-xl { font-size: 20px; }
+
+.unic .underline { text-decoration: underline; }
+
+.unic .hover\:no-underline:hover { text-decoration: none; }
+
+.unic .antialiased { -webkit-font-smoothing: antialiased; }
+
+.unic .align-middle { vertical-align: middle; }
+
+.unic .w-5 { width: 20px; }
+
+.unic .w-10 { width: 40px; }
+
+.unic .w-32 { width: 128px; }
+
+.unic .w-1\/2 { width: 50%; }
+
+.unic .w-full { width: 100%; }
+
+.unic .z-40 { z-index: 40; }
+
+.unic .z-50 { z-index: 50; }
+
+@media (min-width: 768px) {
+  .unic .md\:flex-row { -webkit-box-orient: horizontal; -webkit-box-direction: normal; flex-direction: row; }
+  .unic .md\:flex-1 { -webkit-box-flex: 1; flex: 1 1 0%; }
+  .unic .md\:h-64 { height: 256px; }
+  .unic .md\:h-auto { height: auto; }
+  .unic .md\:mx-2 { margin-left: 8px; margin-right: 8px; }
+  .unic .md\:mx-3 { margin-left: 12px; margin-right: 12px; }
+  .unic .md\:pl-4 { padding-left: 16px; }
+  .unic .md\:text-base { font-size: 16px; }
+  .unic .md\:text-xl { font-size: 20px; }
+  .unic .md\:w-1\/2 { width: 50%; }
+  .unic .md\:w-1\/4 { width: 25%; }
+}
+
+div.unic ::-webkit-scrollbar { display: none; }
+
+.unic { color: rgba(0, 0, 0, 0.76); overflow: auto; }
+
+.unic, .unic li, .unic p { font-size: 14px; }
+
+.unic .h24 { height: 24px; }
+
+.unic label { width: auto; }
+
+.unic .svg { height: 100%; }
+
+.unic .logo, .unic .uniclogo { max-height: 40px; font-weight: 700; margin-top: -2px; }
+
+.unic .unic-mh { max-height: 30vh; }
+
+.unic :focus { outline: dotted thin; }
+
+.unic-bg { background-color: rgba(105, 104, 104, 0.75); }
+
+.unic .toggle__dot { top: -4px; left: -4px; transition: 0.3s ease-in-out; }
+
+.unic input:checked ~ .toggle__dot { transform: translateX(120%); background-color: rgb(72, 187, 120) !important; }
+
+.unic input:checked:disabled ~ .toggle__dot { transform: translateX(120%); background-color: rgb(157, 219, 182) !important; }
+
+#uniccmp { z-index: 2147483639; }
+
+#uniccmp-badge, .unic-badge { z-index: 2147483638; }
+
+.unic-badge { width: 30px; height: 30px; padding: 5px; display: block; outline: none; position: fixed; left: 10px; bottom: 10px; border-radius: 4px; background-image: linear-gradient(37deg, rgb(199, 199, 199), rgb(224, 224, 224)); cursor: pointer; }
+------MultipartBoundary--IgJYs4FLO7hppZ1EPy3MW4zks0L2gygfPcnJUvmIuy----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-3eb9e8c7-43de-4da0-a214-305a7ccf6c64@mhtml.blink
+
+@charset "utf-8";
+
+.dlziq { border: 0px; }
+------MultipartBoundary--IgJYs4FLO7hppZ1EPy3MW4zks0L2gygfPcnJUvmIuy----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-597cbf28-59ef-4f59-87f8-b3168067620c@mhtml.blink
+
+@charset "utf-8";
+
+@font-face { font-family: EuclidCircularA-Bold; src: url("/html/online-compiler/fonts/EuclidCircularA-Bold.otf"); }
+
+@font-face { font-family: EuclidCircularA-Medium; src: url("/html/online-compiler/fonts/EuclidCircularA-Medium.otf"); }
+
+@font-face { font-family: EuclidCircularA-Regular; src: url("/html/online-compiler/fonts/EuclidCircularA-Regular.otf"); }
+
+@font-face { font-family: EuclidCircularA-Light; src: url("/html/online-compiler/fonts/EuclidCircularA-Light.otf"); }
+
+@font-face { font-family: DroidSansMono; font-style: normal; src: url("/html/online-compiler/fonts/DroidSansMono.ttf"); }
+------MultipartBoundary--IgJYs4FLO7hppZ1EPy3MW4zks0L2gygfPcnJUvmIuy----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-6a20b104-0acd-4c9a-9860-537c42249ccf@mhtml.blink
+
+@charset "utf-8";
+
+@font-face { font-family: EuclidCircularA-Bold; src: url("/html/online-compiler/fonts/EuclidCircularA-Bold.otf"); }
+
+@font-face { font-family: EuclidCircularA-Medium; src: url("/html/online-compiler/fonts/EuclidCircularA-Medium.otf"); }
+
+@font-face { font-family: EuclidCircularA-Regular; src: url("/html/online-compiler/fonts/EuclidCircularA-Regular.otf"); }
+
+@font-face { font-family: EuclidCircularA-Light; src: url("/html/online-compiler/fonts/EuclidCircularA-Light.otf"); }
+
+@font-face { font-family: DroidSansMono; font-style: normal; src: url("/html/online-compiler/fonts/DroidSansMono.ttf"); }
+------MultipartBoundary--IgJYs4FLO7hppZ1EPy3MW4zks0L2gygfPcnJUvmIuy----
+Content-Type: text/html
+Content-ID: <frame-9A7BE63EF229F91D67ECCEB4266C951A@mhtml.blink>
+Content-Transfer-Encoding: binary
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body></body></html>
+------MultipartBoundary--IgJYs4FLO7hppZ1EPy3MW4zks0L2gygfPcnJUvmIuy----
+Content-Type: text/html
+Content-ID: <frame-FEBAED8E05E48E7DC3C08B0D16D430B9@mhtml.blink>
+Content-Transfer-Encoding: binary
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body></body></html>
+------MultipartBoundary--IgJYs4FLO7hppZ1EPy3MW4zks0L2gygfPcnJUvmIuy----
+Content-Type: text/html
+Content-ID: <frame-DEE7F1AFE5F2C4BF2B921152862EBB13@mhtml.blink>
+Content-Transfer-Encoding: binary
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body></body></html>
+------MultipartBoundary--IgJYs4FLO7hppZ1EPy3MW4zks0L2gygfPcnJUvmIuy----
+Content-Type: text/html
+Content-ID: <frame-8ABAA52C1FCCA6104798BD93C04AC0B5@mhtml.blink>
+Content-Transfer-Encoding: binary
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-86258f8f-c2c8-43c8-b877-8fdfa629e629@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-dbd78cf0-a097-436a-a4af-b4a58d72d4ca@mhtml.blink" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>For My Princess Santo</title>
+
+</head>
+  <body>
+  <div class="container">
+    <h1>For My Princess Santo ❤️</h1>
+    <p>Don’t worry di chellooo, konjo naal mattum poruthuko di.</p>
+    <p>Periods pain-laa aparam unna paathuka, naa permanent-a un kooda vae irrupean.</p>
+    <p>Pain pathi yosikaatha maari naa paathukurean di.</p>
+    <p>Unna sirika vechi, mattum paakanum nu aasa padrean di thangooo.</p>
+    <p>Naa mukkiyama Chennai vanthathuku reason kooda athan – yenga Chennai-la periods pain varumo, amma appa-la yaarumae illa, yaaru paathupaanga nu yosichi than vanthean.</p>
+    <p>Nalla vela unakku periods pain anniki varala anniki naal romba happy-a pochi theriyuma?</p>
+    <p>Unkooda and thanks for the happy moments – anniki T Nagar ponathu, beach-ku ponathu, ellamae.</p>
+    <p>And more... I LOVE YOU the way you are.</p>
+    <p>This is for my princess, SANTO</p>
+    <div class="animation-area" aria-label="Calming raindrops turning into flowers">
+      <div class="raindrop" style="left: 20%; animation-delay: 0s;"></div>
+      <div class="raindrop" style="left: 40%; animation-delay: 1s;"></div>
+      <div class="raindrop" style="left: 60%; animation-delay: 2s;"></div>
+      <div class="raindrop" style="left: 80%; animation-delay: 3s;"></div>
+      <div class="flower" style="left: 25%; top: 120px; animation-delay: 1.5s;"></div>
+      <div class="flower" style="left: 50%; top: 130px; animation-delay: 2.5s;"></div>
+      <div class="flower" style="left: 75%; top: 110px; animation-delay: 3.5s;"></div>
+    </div>
+  </div>
+
+</body></html>
+------MultipartBoundary--IgJYs4FLO7hppZ1EPy3MW4zks0L2gygfPcnJUvmIuy----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-dbd78cf0-a097-436a-a4af-b4a58d72d4ca@mhtml.blink
+
+@charset "utf-8";
+
+
+------MultipartBoundary--IgJYs4FLO7hppZ1EPy3MW4zks0L2gygfPcnJUvmIuy----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-86258f8f-c2c8-43c8-b877-8fdfa629e629@mhtml.blink
+
+@charset "utf-8";
+
+body { background: linear-gradient(135deg, rgb(230, 230, 250), rgb(245, 245, 245)); font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; color: rgb(51, 51, 102); margin: 0px; padding: 2rem; overflow-x: hidden; }
+
+.container { max-width: 600px; margin: auto; text-align: center; background: rgba(255, 255, 255, 0.85); padding: 2rem; border-radius: 15px; box-shadow: rgba(102, 102, 153, 0.2) 0px 0px 15px; }
+
+h1 { font-weight: 700; margin-bottom: 1rem; color: rgb(106, 90, 205); }
+
+p { line-height: 1.5; margin-bottom: 1rem; font-size: 1.1rem; }
+
+.animation-area { position: relative; height: 150px; margin: 2rem auto; }
+
+.raindrop, .flower { position: absolute; width: 15px; height: 30px; background: rgb(135, 206, 250); border-radius: 50% / 60% 60% 40% 40%; opacity: 0.7; animation: 4s linear 0s infinite normal none running fall; }
+
+.flower { background: rgb(255, 182, 193); border-radius: 50%; width: 20px; height: 20px; opacity: 0; animation: 4s ease-in-out 0s infinite normal none running bloom; }
+
+@keyframes fall { 
+  0% { top: -40px; opacity: 0.7; }
+  70% { opacity: 0.7; }
+  100% { top: 130px; opacity: 0; }
+}
+
+@keyframes bloom { 
+  0%, 50% { opacity: 0; transform: scale(0.6); }
+  70%, 100% { opacity: 1; transform: scale(1); }
+}
+------MultipartBoundary--IgJYs4FLO7hppZ1EPy3MW4zks0L2gygfPcnJUvmIuy------
